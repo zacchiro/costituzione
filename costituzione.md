@@ -1283,6 +1283,7 @@ Abrogato
 ##### Art. 131.
 
 Sono costituite le seguenti Regioni:
+
 * Piemonte;
 * Valle d'Aosta;
 * Lombardia;
