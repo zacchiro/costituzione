@@ -456,8 +456,24 @@ giuramento nei casi stabiliti dalla legge.
 ##### Art. 55.
 
 Il Parlamento si compone della Camera dei deputati e del Senato della
-Repubblica.  Il Parlamento si riunisce in seduta comune dei membri delle due
-Camere nei soli casi stabiliti dalla Costituzione.
+Repubblica.  Le leggi che stabiliscono le modalità di elezione delle Camere
+promuovono l'equilibrio tra donne e uomini nella rappresentanza.  Ciascun
+membro della Camera dei deputati rappresenta la Nazione.  La Camera dei
+deputati è titolare del rapporto di fiducia con il Governo ed esercita la
+funzione di indirizzo politico, la funzione legislativa e quella di controllo
+dell'operato del Governo.  Il Senato della Repubblica rappresenta le
+istituzioni territoriali ed esercita funzioni di raccordo tra lo Stato e gli
+altri enti costitutivi della Repubblica. Concorre all'esercizio della funzione
+legislativa nei casi e secondo le modalità stabiliti dalla Costituzione, nonché
+all'esercizio delle funzioni di raccordo tra lo Stato, gli altri enti
+costitutivi della Repubblica e l'Unione europea. Partecipa alle decisioni
+dirette alla formazione e all'attuazione degli atti normativi e delle politiche
+dell'Unione europea. Valuta le politiche pubbliche e l'attività delle pubbliche
+amministrazioni e verifica l'impatto delle politiche dell'Unione europea sui
+territori. Concorre ad esprimere pareri sulle nomine di competenza del Governo
+nei casi previsti dalla legge e a verificare l'attuazione delle leggi dello
+Stato.  Il Parlamento si riunisce in seduta comune dei membri delle due Camere
+nei soli casi stabiliti dalla Costituzione
 
 ##### Art. 56.
 

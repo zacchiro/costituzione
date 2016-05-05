@@ -1,8 +1,8 @@
 #    -*- mode: org -*-
 
-* [2/41] implement 2613-D
+* [3/41] implement 2613-D
   see ../docs/2016-01-20/2613-D.html
-** TODO art 1
+** DONE art 1 - funzioni delle camere
 ** TODO art 2
 ** TODO art 3
 ** TODO art 4
