@@ -4,7 +4,7 @@ htmls = $(patsubst %.md,%.html,$(markdowns))
 all: $(htmls)
 
 %.html: %.md
-	markdown $< > $@
+	bin/md2html $< > $@
 
 clean:
 	rm -f $(htmls)
