@@ -731,13 +731,19 @@ Se la legge è nuovamente approvata, questa deve essere promulgata
 
 È indetto referendum popolare per deliberare l'abrogazione, totale o parziale,
 di una legge o di un atto avente valore di legge, quando lo richiedono
-cinquecentomila elettori o cinque Consigli regionali.  Non è ammesso il
-referendum per le leggi tributarie e di bilancio, di amnistia e di indulto, di
-autorizzazione a ratificare trattati internazionali.  Hanno diritto di
-partecipare al referendum tutti i cittadini chiamati ad eleggere la Camera dei
-deputati.  La proposta soggetta a referendum è approvata se ha partecipato alla
-votazione la maggioranza degli aventi diritto, e se è raggiunta la maggioranza
-dei voti validamente espressi.  La legge determina le modalità di attuazione
+cinquecentomila elettori o cinque Consigli regionali.  
+
+Non è ammesso il referendum per le leggi tributarie e di bilancio, di amnistia
+e di indulto, di autorizzazione a ratificare trattati internazionali.  
+
+Hanno diritto di partecipare al referendum tutti gli elettori. 
+
+La proposta soggetta a referendum è approvata se ha partecipato alla votazione
+la maggioranza degli aventi diritto o, se avanzata da ottocentomila elettori,
+la maggioranza dei votanti alle ultime elezioni della Camera dei deputati, e se
+è raggiunta la maggioranza dei voti validamente espressi.
+
+La legge determina le modalità di attuazione
 del referendum.
 
 ##### Art. 76.
@@ -748,36 +754,71 @@ limitato e per oggetti definiti.
 
 ##### Art. 77.
 
-Il Governo non può, senza delegazione delle Camere, emanare decreti che abbiano
-valore di legge ordinaria.  Quando, in casi straordinari di necessità e
-d'urgenza, il Governo adotta, sotto la sua responsabilità, provvedimenti
-provvisori con forza di legge, deve il giorno stesso presentarli per la
-conversione alle Camere che, anche se sciolte, sono appositamente convocate e
-si riuniscono entro cinque giorni.  I decreti perdono efficacia sin
-dall'inizio, se non sono convertiti in legge entro sessanta giorni dalla loro
-pubblicazione. Le Camere possono tuttavia regolare con legge i rapporti
-giuridici sorti sulla base dei decreti non convertiti.
+Il Governo non può, senza delegazione disposta con legge, emanare decreti che abbiano
+valore di legge ordinaria.  
+
+Quando, in casi straordinari di necessità e d'urgenza, il Governo adotta, sotto
+la sua responsabilità, provvedimenti provvisori con forza di legge, deve il
+giorno stesso presentarli per la conversione alla Camera dei deputati, anche
+quando la funzione legislativa è esercitata collettivamente dalle due Camere.
+La Camera dei deputati, anche se sciolta, è appositamente convocata e si
+riunisce entro cinque giorni.  
+
+I decreti perdono efficacia sin dall'inizio, se non sono convertiti in legge
+entro sessanta giorni dalla loro pubblicazione o, nei casi in cui il Presidente
+della Repubblica abbia chiesto, a norma dell'articolo 74, una nuova
+deliberazione, entro novanta giorni dalla loro pubblicazione. La legge può
+tuttavia regolare  i rapporti giuridici sorti sulla base dei decreti non
+convertiti.
+
+Il Governo non può, mediante provvedimenti provvisori con forza di legge:
+disciplinare le materie indicate nell'articolo 72, quinto comma, con
+esclusione, per la materia elettorale, della disciplina dell'organizzazione del
+procedimento elettorale e dello svolgimento delle elezioni; reiterare
+disposizioni adottate con decreti non convertiti in legge e regolare i rapporti
+giuridici sorti sulla base dei medesimi; ripristinare l'efficacia di norme di
+legge o di atti aventi forza di legge che la Corte costituzionale ha dichiarato
+illegittimi per vizi non attinenti al procedimento.
+
+I decreti recano misure di immediata applicazione e di contenuto specifico,
+omogeneo e corrispondente al titolo.
+
+L'esame, a norma dell'articolo 70, terzo e quarto comma, dei disegni di legge
+di conversione dei decreti è disposto dal Senato della Repubblica entro trenta
+giorni dalla loro presentazione alla Camera dei deputati. Le proposte di
+modificazione possono essere deliberate entro dieci giorni dalla data di
+trasmissione del disegno di legge di conversione, che deve avvenire non oltre
+quaranta giorni dalla presentazione.
+
+Nel corso dell'esame dei disegni di legge di conversione dei decreti non
+possono essere approvate disposizioni estranee all'oggetto o alle finalità del
+decreto.
 
 ##### Art. 78.
 
-Le Camere deliberano lo stato di guerra e conferiscono al Governo i poteri
-necessari.
+La Camera dei deputati delibera a maggioranza assoluta lo stato di guerra e
+conferisce al Governo i poteri necessari
 
 ##### Art. 79.
 
 L'amnistia e l'indulto sono concessi con legge deliberata a maggioranza dei due
-terzi dei componenti di ciascuna Camera, in ogni suo articolo e nella votazione
-finale.  La legge che concede l'amnistia o l'indulto stabilisce il termine per
-la loro applicazione.  In ogni caso l'amnistia e l'indulto non possono
-applicarsi ai reati commessi successivamente alla presentazione del disegno di
-legge.
+terzi dei componenti della Camera dei deputati, in ogni suo articolo e nella
+votazione finale.  
+
+La legge che concede l'amnistia o l'indulto stabilisce il termine per la loro
+applicazione.  
+
+In ogni caso l'amnistia e l'indulto non possono applicarsi ai reati commessi
+successivamente alla presentazione del disegno di legge.
 
 ##### Art. 80.
 
-Le Camere autorizzano con legge la ratifica dei trattati internazionali che
-sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o
-importano variazioni del territorio od oneri alle finanze o modificazioni di
-leggi.
+La Camera dei deputati autorizza con legge la ratifica dei trattati
+internazionali che sono di natura politica, o prevedono arbitrati o regolamenti
+giudiziari, o importano variazioni del territorio od oneri alle finanze o
+modificazioni di leggi. Le leggi che autorizzano la ratifica dei trattati
+relativi all'appartenenza dell'Italia all'Unione europea sono approvate da
+entrambe le Camere.
 
 ##### Art. 81.
 
@@ -799,22 +840,27 @@ con legge costituzionale.
 
 ##### Art. 82.
 
-Ciascuna Camera può disporre inchieste su materie di pubblico interesse.  A
-tale scopo nomina fra i propri componenti una commissione formata in modo da
-rispecchiare la proporzione dei vari gruppi. La commissione d'inchiesta procede
-alle indagini e agli esami con gli stessi poteri e le stesse limitazioni
-dell'autorità giudiziaria.
+La Camera dei deputati può disporre inchieste su materie di pubblico interesse.
+Il Senato della Repubblica può disporre inchieste su materie di pubblico
+interesse concernenti le autonomie territoriali.
+
+A tale scopo ciascuna Camera nomina fra i propri componenti una Commissione.
+Alla Camera dei deputati la Commissione è formata in modo da rispecchiare la
+proporzione dei vari gruppi. La Commissione d'inchiesta procede alle indagini e
+agli esami con gli stessi poteri e le stesse limitazioni dell'autorità
+giudiziaria
 
 ### Titolo II — Il Presidente della Repubblica
 
 ##### Art. 83.
 
 Il Presidente della Repubblica è eletto dal Parlamento in seduta comune dei
-suoi membri.  All'elezione partecipano tre delegati per ogni Regione eletti dal
-Consiglio regionale in modo che sia assicurata la rappresentanza delle
-minoranze. La Valle d'Aosta ha un solo delegato.  L'elezione del Presidente
-della Repubblica ha luogo per scrutinio segreto a maggioranza di due terzi
-della assemblea. Dopo il terzo scrutinio è sufficiente la maggioranza assoluta.
+suoi membri.
+
+L'elezione del Presidente della Repubblica ha luogo per scrutinio segreto a
+maggioranza di due terzi della assemblea. Dal quarto scrutinio è sufficiente la
+maggioranza dei tre quinti dell'assemblea. Dal settimo scrutinio è sufficiente
+la maggioranza dei tre quinti dei votanti.
 
 ##### Art. 84.
 
@@ -825,13 +871,18 @@ L'assegno e la dotazione del Presidente sono determinati per legge.
 
 ##### Art. 85.
 
-Il Presidente della Repubblica è eletto per sette anni.  Trenta giorni prima
-che scada il termine, il Presidente della Camera dei deputati convoca in seduta
-comune il Parlamento e i delegati regionali, per eleggere il nuovo Presidente
-della Repubblica.  Se le Camere sono sciolte, o manca meno di tre mesi alla
-loro cessazione, la elezione ha luogo entro quindici giorni dalla riunione
-delle Camere nuove. Nel frattempo sono prorogati i poteri del Presidente in
-carica.
+Il Presidente della Repubblica è eletto per sette anni.
+
+Trenta giorni prima che scada il termine, il Presidente della Camera dei
+deputati convoca in seduta comune il Parlamento, per eleggere il nuovo
+Presidente della Repubblica. Quando il Presidente della Camera esercita le
+funzioni del Presidente della Repubblica nel caso in cui questi non possa
+adempierle, il Presidente del Senato convoca e presiede il Parlamento in seduta
+comune.
+
+Se la Camera dei deputati è sciolta, o manca meno di tre mesi alla sua
+cessazione, l'elezione ha luogo entro quindici giorni dalla riunione della
+Camera nuova. Nel frattempo sono prorogati i poteri del Presidente in carica.
 
 ##### Art. 86.
 
