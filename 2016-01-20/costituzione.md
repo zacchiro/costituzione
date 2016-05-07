@@ -731,13 +731,19 @@ Se la legge è nuovamente approvata, questa deve essere promulgata
 
 È indetto referendum popolare per deliberare l'abrogazione, totale o parziale,
 di una legge o di un atto avente valore di legge, quando lo richiedono
-cinquecentomila elettori o cinque Consigli regionali.  Non è ammesso il
-referendum per le leggi tributarie e di bilancio, di amnistia e di indulto, di
-autorizzazione a ratificare trattati internazionali.  Hanno diritto di
-partecipare al referendum tutti i cittadini chiamati ad eleggere la Camera dei
-deputati.  La proposta soggetta a referendum è approvata se ha partecipato alla
-votazione la maggioranza degli aventi diritto, e se è raggiunta la maggioranza
-dei voti validamente espressi.  La legge determina le modalità di attuazione
+cinquecentomila elettori o cinque Consigli regionali.  
+
+Non è ammesso il referendum per le leggi tributarie e di bilancio, di amnistia
+e di indulto, di autorizzazione a ratificare trattati internazionali.  
+
+Hanno diritto di partecipare al referendum tutti gli elettori. 
+
+La proposta soggetta a referendum è approvata se ha partecipato alla votazione
+la maggioranza degli aventi diritto o, se avanzata da ottocentomila elettori,
+la maggioranza dei votanti alle ultime elezioni della Camera dei deputati, e se
+è raggiunta la maggioranza dei voti validamente espressi.
+
+La legge determina le modalità di attuazione
 del referendum.
 
 ##### Art. 76.
@@ -748,15 +754,45 @@ limitato e per oggetti definiti.
 
 ##### Art. 77.
 
-Il Governo non può, senza delegazione delle Camere, emanare decreti che abbiano
-valore di legge ordinaria.  Quando, in casi straordinari di necessità e
-d'urgenza, il Governo adotta, sotto la sua responsabilità, provvedimenti
-provvisori con forza di legge, deve il giorno stesso presentarli per la
-conversione alle Camere che, anche se sciolte, sono appositamente convocate e
-si riuniscono entro cinque giorni.  I decreti perdono efficacia sin
-dall'inizio, se non sono convertiti in legge entro sessanta giorni dalla loro
-pubblicazione. Le Camere possono tuttavia regolare con legge i rapporti
-giuridici sorti sulla base dei decreti non convertiti.
+Il Governo non può, senza delegazione disposta con legge, emanare decreti che abbiano
+valore di legge ordinaria.  
+
+Quando, in casi straordinari di necessità e d'urgenza, il Governo adotta, sotto
+la sua responsabilità, provvedimenti provvisori con forza di legge, deve il
+giorno stesso presentarli per la conversione alla Camera dei deputati, anche
+quando la funzione legislativa è esercitata collettivamente dalle due Camere.
+La Camera dei deputati, anche se sciolta, è appositamente convocata e si
+riunisce entro cinque giorni.  
+
+I decreti perdono efficacia sin dall'inizio, se non sono convertiti in legge
+entro sessanta giorni dalla loro pubblicazione o, nei casi in cui il Presidente
+della Repubblica abbia chiesto, a norma dell'articolo 74, una nuova
+deliberazione, entro novanta giorni dalla loro pubblicazione. La legge può
+tuttavia regolare  i rapporti giuridici sorti sulla base dei decreti non
+convertiti.
+
+Il Governo non può, mediante provvedimenti provvisori con forza di legge:
+disciplinare le materie indicate nell'articolo 72, quinto comma, con
+esclusione, per la materia elettorale, della disciplina dell'organizzazione del
+procedimento elettorale e dello svolgimento delle elezioni; reiterare
+disposizioni adottate con decreti non convertiti in legge e regolare i rapporti
+giuridici sorti sulla base dei medesimi; ripristinare l'efficacia di norme di
+legge o di atti aventi forza di legge che la Corte costituzionale ha dichiarato
+illegittimi per vizi non attinenti al procedimento.
+
+I decreti recano misure di immediata applicazione e di contenuto specifico,
+omogeneo e corrispondente al titolo.
+
+L'esame, a norma dell'articolo 70, terzo e quarto comma, dei disegni di legge
+di conversione dei decreti è disposto dal Senato della Repubblica entro trenta
+giorni dalla loro presentazione alla Camera dei deputati. Le proposte di
+modificazione possono essere deliberate entro dieci giorni dalla data di
+trasmissione del disegno di legge di conversione, che deve avvenire non oltre
+quaranta giorni dalla presentazione.
+
+Nel corso dell'esame dei disegni di legge di conversione dei decreti non
+possono essere approvate disposizioni estranee all'oggetto o alle finalità del
+decreto.
 
 ##### Art. 78.
 
