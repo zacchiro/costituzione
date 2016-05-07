@@ -588,41 +588,130 @@ I membri del Parlamento ricevono una indennità stabilita dalla legge.
 
 ##### Art. 70.
 
-La funzione legislativa è esercitata collettivamente dalle due Camere.
+La funzione legislativa è esercitata collettivamente dalle due Camere per le
+leggi di revisione della Costituzione e le altre leggi costituzionali, e
+soltanto per le leggi di attuazione delle disposizioni costituzionali
+concernenti la tutela delle minoranze linguistiche, i referendum popolari, le
+altre forme di consultazione di cui all'articolo 71, per le leggi che
+determinano l'ordinamento, la legislazione elettorale, gli organi di governo, le
+funzioni fondamentali dei Comuni e delle Città metropolitane e le disposizioni
+di principio sulle forme associative dei Comuni, per la legge che stabilisce le
+norme generali, le forme e i termini della partecipazione dell'Italia alla
+formazione e all'attuazione della normativa e delle politiche dell'Unione
+europea, per quella che determina i casi di ineleggibilità e di incompatibilità
+con l'ufficio di senatore di cui all'articolo 65, primo comma, e per le leggi di
+cui agli articoli 57, sesto comma, 80, secondo periodo, 114, terzo comma, 116,
+terzo comma, 117, quinto e nono comma, 119, sesto comma, 120, secondo comma,
+122, primo comma, e 132, secondo comma. Le stesse leggi, ciascuna con oggetto
+proprio, possono essere abrogate, modificate o derogate solo in forma espressa e
+da leggi approvate a norma del presente comma.  Le altre leggi sono approvate
+dalla Camera dei deputati.
+Ogni disegno di legge approvato dalla Camera dei deputati è immediatamente
+trasmesso al Senato della Repubblica che, entro dieci giorni, su richiesta di un
+terzo dei suoi componenti, può disporre di esaminarlo. Nei trenta giorni
+successivi il Senato della Repubblica può deliberare proposte di modificazione
+del testo, sulle quali la Camera dei deputati si pronuncia in via definitiva.
+Qualora il Senato della Repubblica non disponga di procedere all'esame o sia
+inutilmente decorso il termine per deliberare, ovvero quando la Camera dei
+deputati si sia pronunciata in via definitiva, la legge può essere promulgata.
+L'esame del Senato della Repubblica per le leggi che danno attuazione
+all'articolo 117, quarto comma, è disposto nel termine di dieci giorni dalla
+data di trasmissione. Per i medesimi disegni di legge, la Camera dei deputati
+può non conformarsi alle modificazioni proposte dal Senato della Repubblica a
+maggioranza assoluta dei suoi componenti, solo pronunciandosi nella votazione
+finale a maggioranza assoluta dei propri componenti.  I disegni di legge di cui
+all'articolo 81, quarto comma, approvati dalla Camera dei deputati, sono
+esaminati dal Senato della Repubblica, che può deliberare proposte di
+modificazione entro quindici giorni dalla data della trasmissione.
+I Presidenti delle Camere decidono, d'intesa tra loro, le eventuali questioni di
+competenza, sollevate secondo le norme dei rispettivi regolamenti.
+Il Senato della Repubblica può, secondo quanto previsto dal proprio regolamento,
+svolgere attività conoscitive, nonché formulare osservazioni su atti o documenti
+all'esame della Camera dei deputati
 
 ##### Art. 71.
 
 L'iniziativa delle leggi appartiene al Governo, a ciascun membro delle Camere
-ed agli organi ed enti ai quali sia conferita da legge costituzionale.  Il
-popolo esercita l'iniziativa delle leggi, mediante la proposta, da parte di
-almeno cinquantamila elettori, di un progetto redatto in articoli.
+ed agli organi ed enti ai quali sia conferita da legge costituzionale.
+
+Il Senato della Repubblica può, con deliberazione adottata a maggioranza
+assoluta dei suoi componenti, richiedere alla Camera dei deputati di procedere
+all'esame di un disegno di legge. In tal caso, la Camera dei deputati procede
+all'esame e si pronuncia entro il termine di sei mesi dalla data della
+deliberazione del Senato della Repubblica  
+
+Il popolo esercita l'iniziativa delle leggi, mediante la proposta, da parte di
+almeno centocinquantamila elettori, di un progetto redatto in articoli. La
+discussione e la deliberazione conclusiva sulle proposte di legge d'iniziativa
+popolare sono garantite nei tempi, nelle forme e nei limiti stabiliti dai
+regolamenti parlamentari
+
+Al fine di favorire la partecipazione dei cittadini alla determinazione delle
+politiche pubbliche, la legge costituzionale stabilisce condizioni ed effetti di
+referendum popolari propositivi e d'indirizzo, nonché di altre forme di
+consultazione, anche delle formazioni sociali. Con legge approvata da entrambe
+le Camere sono disposte le modalità di attuazione.
 
 ##### Art. 72.
 
-Ogni disegno di legge, presentato ad una Camera è, secondo le norme del suo
-regolamento, esaminato da una commissione e poi dalla Camera stessa, che
-l'approva articolo per articolo e con votazione finale.  Il regolamento
-stabilisce procedimenti abbreviati per i disegni di legge dei quali è
-dichiarata l'urgenza.  Può altresì stabilire in quali casi e forme l'esame e
-l'approvazione dei disegni di legge sono deferiti a commissioni, anche
-permanenti, composte in modo da rispecchiare la proporzione dei gruppi
-parlamentari. Anche in tali casi, fino al momento della sua approvazione
-definitiva, il disegno di legge è rimesso alla Camera, se il Governo o un
-decimo dei componenti della Camera o un quinto della commissione richiedono che
-sia discusso e votato dalla Camera stessa oppure che sia sottoposto alla sua
-approvazione finale con sole dichiarazioni di voto. Il regolamento determina le
-forme di pubblicità dei lavori delle commissioni.  La procedura normale di
-esame e di approvazione diretta da parte della Camera è sempre adottata per i
-disegni di legge in materia costituzionale ed elettorale e per quelli di
-delegazione legislativa, di autorizzazione a ratificare trattati
-internazionali, di approvazione di bilanci e consuntivi.
+Ogni disegno di legge di cui all'articolo 70, primo comma, presentato ad una
+Camera è, secondo le norme del suo regolamento, esaminato da una commissione e
+poi dalla Camera stessa, che l'approva articolo per articolo e con votazione
+finale. 
+Ogni altro disegno di legge è presentato alla Camera dei deputati e, secondo le norme del suo regolamento, esaminato da una Commissione e poi dalla Camera stessa, che l'approva articolo per articolo e con votazione finale.
+       I regolamenti stabiliscono procedimenti abbreviati per i disegni di legge
+dei quali è dichiarata l'urgenza.
+	Possono altresì stabilire in quali casi e forme l'esame e l'approvazione
+dei disegni di legge sono deferiti a Commissioni, anche permanenti, che, alla
+Camera dei deputati, sono composte in modo da rispecchiare la proporzione dei
+gruppi parlamentari. Anche in tali casi, fino al momento della sua approvazione
+definitiva, il disegno di legge è rimesso alla Camera, se il Governo o un decimo
+dei componenti della Camera o un quinto della Commissione richiedono che sia
+discusso e votato dalla Camera stessa oppure che sia sottoposto alla sua
+approvazione finale con sole dichiarazioni di voto. I regolamenti determinano le
+forme di pubblicità dei lavori delle Commissioni. 
+	La procedura normale di esame e di approvazione diretta da parte della
+Camera è sempre adottata per i disegni di legge in materia costituzionale ed
+elettorale, per quelli di delegazione legislativa, per quelli di conversione in
+legge di decreti, per quelli di autorizzazione a ratificare trattati
+internazionali e per quelli di approvazione di bilanci e consuntivi.
+	Il regolamento del Senato della Repubblica disciplina le modalità di
+esame dei disegni di legge trasmessi dalla Camera dei deputati ai sensi
+dell'articolo 70.
+      Esclusi i casi di cui all'articolo 70, primo comma, e, in ogni caso, le
+leggi in materia elettorale, le leggi di autorizzazione alla ratifica dei
+trattati internazionali e le leggi di cui agli articoli 79 e 81, sesto comma, il
+Governo può chiedere alla Camera dei deputati di deliberare, entro cinque giorni
+dalla richiesta, che un disegno di legge indicato come essenziale per
+l'attuazione del programma di governo sia iscritto con priorità all'ordine del
+giorno e sottoposto alla pronuncia in via definitiva della Camera dei deputati
+entro il termine di settanta giorni dalla deliberazione. In tali casi, i termini
+di cui all'articolo 70, terzo comma, sono ridotti della metà. Il termine può
+essere differito di non oltre quindici giorni, in relazione ai tempi di esame da
+parte della Commissione nonché alla complessità del disegno di legge. Il
+regolamento della Camera dei deputati stabilisce le modalità e i limiti del
+procedimento, anche con riferimento all'omogeneità del disegno di legge.
 
 ##### Art. 73.
 
 Le leggi sono promulgate dal Presidente della Repubblica entro un mese
-dall'approvazione.  Se le Camere, ciascuna a maggioranza assoluta dei propri
+dall'approvazione. Le leggi che disciplinano l'elezione dei membri della Camera
+dei deputati e del Senato della Repubblica possono essere sottoposte, prima
+della loro promulgazione, al giudizio preventivo di legittimità costituzionale
+da parte della Corte costituzionale, su ricorso motivato presentato da almeno un
+quarto dei componenti della Camera dei deputati o da almeno un terzo dei
+componenti del Senato della Repubblica entro dieci giorni dall'approvazione
+della legge, prima dei quali la legge non può essere promulgata. La Corte
+costituzionale si pronuncia entro il termine di trenta giorni e, fino ad allora,
+resta sospeso il termine per la promulgazione della legge. In caso di
+dichiarazione di illegittimità costituzionale, la legge non può essere
+promulgata 
+
+Se le Camere, ciascuna a maggioranza assoluta dei propri
 componenti, ne dichiarano l'urgenza, la legge è promulgata nel termine da essa
-stabilito.  Le leggi sono pubblicate subito dopo la promulgazione ed entrano in
+stabilito.  
+
+Le leggi sono pubblicate subito dopo la promulgazione ed entrano in
 vigore il quindicesimo giorno successivo alla loro pubblicazione, salvo che le
 leggi stesse stabiliscano un termine diverso.
 
@@ -631,6 +720,12 @@ leggi stesse stabiliscano un termine diverso.
 Il Presidente della Repubblica, prima di promulgare la legge, può con messaggio
 motivato alle Camere chiedere una nuova deliberazione.  Se le Camere approvano
 nuovamente la legge, questa deve essere promulgata.
+
+Qualora la richiesta riguardi la legge di conversione di un decreto adottato a
+norma dell'articolo 77, il termine per la conversione in legge è differito di
+trenta giorni.
+
+Se la legge è nuovamente approvata, questa deve essere promulgata
 
 ##### Art. 75.
 
@@ -1348,11 +1443,17 @@ nuovi Comuni e modificare le loro circoscrizioni e denominazioni.
 
 ##### Art. 134.
 
-La Corte costituzionale giudica: sulle controversie relative alla legittimità
-costituzionale delle leggi e degli atti, aventi forza di legge, dello Stato e
-delle Regioni; sui conflitti di attribuzione tra i poteri dello Stato, e su
-quelli tra lo Stato e le Regioni, e tra le Regioni; sulle accuse promosse
-contro il Presidente della Repubblica, a norma della Costituzione.
+La Corte costituzionale giudica: 
+sulle controversie relative alla legittimità costituzionale delle leggi e degli
+atti, aventi forza di legge, dello Stato e delle Regioni; 
+sui conflitti di attribuzione tra i poteri dello Stato, e su quelli tra lo Stato
+e le Regioni, e tra le Regioni; 
+sulle accuse promosse contro il Presidente della Repubblica, a norma della
+Costituzione.
+
+La Corte costituzionale giudica altresì della legittimità costituzionale delle
+leggi che disciplinano l'elezione dei membri della Camera dei deputati e del
+Senato della Repubblica ai sensi dell'articolo 73, secondo comma.
 
 ##### Art. 135.
 
