@@ -796,24 +796,29 @@ decreto.
 
 ##### Art. 78.
 
-Le Camere deliberano lo stato di guerra e conferiscono al Governo i poteri
-necessari.
+La Camera dei deputati delibera a maggioranza assoluta lo stato di guerra e
+conferisce al Governo i poteri necessari
 
 ##### Art. 79.
 
 L'amnistia e l'indulto sono concessi con legge deliberata a maggioranza dei due
-terzi dei componenti di ciascuna Camera, in ogni suo articolo e nella votazione
-finale.  La legge che concede l'amnistia o l'indulto stabilisce il termine per
-la loro applicazione.  In ogni caso l'amnistia e l'indulto non possono
-applicarsi ai reati commessi successivamente alla presentazione del disegno di
-legge.
+terzi dei componenti della Camera dei deputati, in ogni suo articolo e nella
+votazione finale.  
+
+La legge che concede l'amnistia o l'indulto stabilisce il termine per la loro
+applicazione.  
+
+In ogni caso l'amnistia e l'indulto non possono applicarsi ai reati commessi
+successivamente alla presentazione del disegno di legge.
 
 ##### Art. 80.
 
-Le Camere autorizzano con legge la ratifica dei trattati internazionali che
-sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o
-importano variazioni del territorio od oneri alle finanze o modificazioni di
-leggi.
+La Camera dei deputati autorizza con legge la ratifica dei trattati
+internazionali che sono di natura politica, o prevedono arbitrati o regolamenti
+giudiziari, o importano variazioni del territorio od oneri alle finanze o
+modificazioni di leggi. Le leggi che autorizzano la ratifica dei trattati
+relativi all'appartenenza dell'Italia all'Unione europea sono approvate da
+entrambe le Camere.
 
 ##### Art. 81.
 
@@ -835,22 +840,27 @@ con legge costituzionale.
 
 ##### Art. 82.
 
-Ciascuna Camera può disporre inchieste su materie di pubblico interesse.  A
-tale scopo nomina fra i propri componenti una commissione formata in modo da
-rispecchiare la proporzione dei vari gruppi. La commissione d'inchiesta procede
-alle indagini e agli esami con gli stessi poteri e le stesse limitazioni
-dell'autorità giudiziaria.
+La Camera dei deputati può disporre inchieste su materie di pubblico interesse.
+Il Senato della Repubblica può disporre inchieste su materie di pubblico
+interesse concernenti le autonomie territoriali.
+
+A tale scopo ciascuna Camera nomina fra i propri componenti una Commissione.
+Alla Camera dei deputati la Commissione è formata in modo da rispecchiare la
+proporzione dei vari gruppi. La Commissione d'inchiesta procede alle indagini e
+agli esami con gli stessi poteri e le stesse limitazioni dell'autorità
+giudiziaria
 
 ### Titolo II — Il Presidente della Repubblica
 
 ##### Art. 83.
 
 Il Presidente della Repubblica è eletto dal Parlamento in seduta comune dei
-suoi membri.  All'elezione partecipano tre delegati per ogni Regione eletti dal
-Consiglio regionale in modo che sia assicurata la rappresentanza delle
-minoranze. La Valle d'Aosta ha un solo delegato.  L'elezione del Presidente
-della Repubblica ha luogo per scrutinio segreto a maggioranza di due terzi
-della assemblea. Dopo il terzo scrutinio è sufficiente la maggioranza assoluta.
+suoi membri.
+
+L'elezione del Presidente della Repubblica ha luogo per scrutinio segreto a
+maggioranza di due terzi della assemblea. Dal quarto scrutinio è sufficiente la
+maggioranza dei tre quinti dell'assemblea. Dal settimo scrutinio è sufficiente
+la maggioranza dei tre quinti dei votanti.
 
 ##### Art. 84.
 
@@ -861,13 +871,18 @@ L'assegno e la dotazione del Presidente sono determinati per legge.
 
 ##### Art. 85.
 
-Il Presidente della Repubblica è eletto per sette anni.  Trenta giorni prima
-che scada il termine, il Presidente della Camera dei deputati convoca in seduta
-comune il Parlamento e i delegati regionali, per eleggere il nuovo Presidente
-della Repubblica.  Se le Camere sono sciolte, o manca meno di tre mesi alla
-loro cessazione, la elezione ha luogo entro quindici giorni dalla riunione
-delle Camere nuove. Nel frattempo sono prorogati i poteri del Presidente in
-carica.
+Il Presidente della Repubblica è eletto per sette anni.
+
+Trenta giorni prima che scada il termine, il Presidente della Camera dei
+deputati convoca in seduta comune il Parlamento, per eleggere il nuovo
+Presidente della Repubblica. Quando il Presidente della Camera esercita le
+funzioni del Presidente della Repubblica nel caso in cui questi non possa
+adempierle, il Presidente del Senato convoca e presiede il Parlamento in seduta
+comune.
+
+Se la Camera dei deputati è sciolta, o manca meno di tre mesi alla sua
+cessazione, l'elezione ha luogo entro quindici giorni dalla riunione della
+Camera nuova. Nel frattempo sono prorogati i poteri del Presidente in carica.
 
 ##### Art. 86.
 
