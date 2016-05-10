@@ -261,8 +261,9 @@ La responsabilità penale è personale.
 L'imputato non è considerato colpevole sino alla condanna definitiva.
 
 Le pene non possono consistere in trattamenti contrari al senso di umanità e
-devono tendere alla rieducazione del condannato.  Non è ammessa la pena di
-morte.
+devono tendere alla rieducazione del condannato.
+
+Non è ammessa la pena di morte.
 
 ##### Art. 28.
 
@@ -396,7 +397,9 @@ Gli inabili ed i minorati hanno diritto all'educazione e all'avviamento
 professionale.
 
 Ai compiti previsti in questo articolo provvedono organi ed istituti
-predisposti o integrati dallo Stato.  L'assistenza privata è libera.
+predisposti o integrati dallo Stato.
+
+L'assistenza privata è libera.
 
 ##### Art. 39.
 
@@ -881,7 +884,9 @@ Può essere eletto Presidente della Repubblica ogni cittadino che abbia compiuto
 cinquanta anni d'età e goda dei diritti civili e politici.
 
 L'ufficio di Presidente della Repubblica è incompatibile con qualsiasi altra
-carica.  L'assegno e la dotazione del Presidente sono determinati per legge.
+carica.
+
+L'assegno e la dotazione del Presidente sono determinati per legge.
 
 ##### Art. 85.
 
@@ -991,8 +996,10 @@ funzioni, prestano giuramento nelle mani del Presidente della Repubblica.
 Il Governo deve avere la fiducia delle due Camere.
 
 Ciascuna Camera accorda o revoca la fiducia mediante mozione motivata e votata
-per appello nominale.  Entro dieci giorni dalla sua formazione il Governo si
-presenta alle Camere per ottenerne la fiducia.
+per appello nominale.
+
+Entro dieci giorni dalla sua formazione il Governo si presenta alle Camere per
+ottenerne la fiducia.
 
 Il voto contrario di una o d'entrambe le Camere su una proposta del Governo non
 importa obbligo di dimissioni.
@@ -1516,11 +1523,13 @@ adottate ad intervallo non minore di due mesi. Per tale legge non è richiesta
 l'apposizione del visto da parte del Commissario del Governo. Il Governo della
 Repubblica può promuovere la questione di legittimità costituzionale sugli
 statuti regionali dinanzi alla Corte costituzionale entro trenta giorni dalla
-loro pubblicazione.  Lo statuto è sottoposto a referendum popolare qualora
-entro tre mesi dalla sua pubblicazione ne faccia richiesta un cinquantesimo
-degli elettori della Regione o un quinto dei componenti il Consiglio
-regionale. Lo statuto sottoposto a referendum non è promulgato se non è
-approvato dalla maggioranza dei voti validi.
+loro pubblicazione.
+
+Lo statuto è sottoposto a referendum popolare qualora entro tre mesi dalla sua
+pubblicazione ne faccia richiesta un cinquantesimo degli elettori della Regione
+o un quinto dei componenti il Consiglio regionale. Lo statuto sottoposto a
+referendum non è promulgato se non è approvato dalla maggioranza dei voti
+validi.
 
 In ogni Regione, lo statuto disciplina il Consiglio delle autonomie locali,
 quale organo di consultazione fra la Regione e gli enti locali.
@@ -1692,8 +1701,10 @@ proponibilità dei giudizi di legittimità costituzionale, e le garanzie
 d'indipendenza dei giudici della Corte.
 
 Con legge ordinaria sono stabilite le altre norme necessarie per la
-costituzione e il funzionamento della Corte.  Contro le decisioni della Corte
-costituzionale non è ammessa alcuna impugnazione.
+costituzione e il funzionamento della Corte.
+
+Contro le decisioni della Corte costituzionale non è ammessa alcuna
+impugnazione.
 
 #### Sezione II — Revisione della Costituzione - Leggi costituzionali
 
