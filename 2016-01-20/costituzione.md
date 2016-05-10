@@ -1405,19 +1405,21 @@ Con decreto motivato del Presidente della Repubblica sono disposti lo
 scioglimento del Consiglio regionale e la rimozione del Presidente della Giunta
 che abbiano compiuto atti contrari alla Costituzione o gravi violazioni di
 legge. Lo scioglimento e la rimozione possono altresì essere disposti per
-ragioni di sicurezza nazionale. Il decreto è adottato sentita una Commissione
-di deputati e senatori costituita, per le questioni regionali, nei modi
-stabiliti con legge della Repubblica.  Il Consiglio regionale può esprimere la
-sfiducia nei confronti del Presidente della Giunta mediante mozione motivata,
-sottoscritta da almeno un quinto dei suoi componenti e approvata per appello
-nominale a maggioranza assoluta dei componenti. La mozione non può essere messa
-in discussione prima di tre giorni dalla presentazione.  L'approvazione della
-mozione di sfiducia nei confronti del Presidente della Giunta eletto a
-suffragio universale e diretto, nonché la rimozione, l'impedimento permanente,
-la morte o le dimissioni volontarie dello stesso comportano le dimissioni della
-Giunta e lo scioglimento del Consiglio. In ogni caso i medesimi effetti
-conseguono alle dimissioni contestuali della maggioranza dei componenti il
-Consiglio.
+ragioni di sicurezza nazionale. Il decreto è adottato previo parere del Senato
+della Repubblica.
+
+Il Consiglio regionale può esprimere la sfiducia nei confronti del Presidente
+della Giunta mediante mozione motivata, sottoscritta da almeno un quinto dei
+suoi componenti e approvata per appello nominale a maggioranza assoluta dei
+componenti. La mozione non può essere messa in discussione prima di tre giorni
+dalla presentazione.
+
+L'approvazione della mozione di sfiducia nei confronti del Presidente della
+Giunta eletto a suffragio universale e diretto, nonché la rimozione,
+l'impedimento permanente, la morte o le dimissioni volontarie dello stesso
+comportano le dimissioni della Giunta e lo scioglimento del Consiglio. In ogni
+caso i medesimi effetti conseguono alle dimissioni contestuali della
+maggioranza dei componenti il Consiglio.
 
 ##### Art. 127.
 
