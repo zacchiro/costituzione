@@ -1,6 +1,6 @@
 #    -*- mode: org -*-
 
-* [3/41] implement 2613-D
+* [17/41] implement 2613-D
   see ../docs/2016-01-20/2613-D.html
 ** DONE art 1 - funzioni delle camere
 ** TODO art 2
@@ -40,7 +40,8 @@
 ** TODO art 36
 ** TODO art 37
 ** TODO art 38
-** TODO art 39
+** DONE art 39 - disposizioni transitorie
+   no op
 ** DONE art 40 - disposizioni finali
    no op
 ** DONE art 41 - entrata in vigore
