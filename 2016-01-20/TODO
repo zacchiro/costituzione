@@ -1,6 +1,6 @@
 #    -*- mode: org -*-
 
-* [17/41] implement 2613-D
+* [18/41] implement 2613-D
   see ../docs/2016-01-20/2613-D.html
 ** DONE art 1 - funzioni delle camere
 ** TODO art 2
@@ -38,7 +38,7 @@
 ** TODO art 34
 ** TODO art 35
 ** TODO art 36
-** TODO art 37
+** DONE art 37 - Elezione dei giudici della Corte costituzionale
 ** TODO art 38
 ** DONE art 39 - disposizioni transitorie
    no op
