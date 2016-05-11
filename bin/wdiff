@@ -14,3 +14,5 @@ wdiff \
     --start-insert '<span class="insert">' \
     --end-insert   '</span>' \
     "$file1" "$file2"
+
+exit 0  # wdiff return false upon changes detected
