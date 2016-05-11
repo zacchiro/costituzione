@@ -590,7 +590,7 @@ nei casi previsti dalla legge e a verificare l'attuazione delle leggi dello
 Stato.
 
 Il Parlamento si riunisce in seduta comune dei membri delle due Camere nei soli
-casi stabiliti dalla Costituzione
+casi stabiliti dalla Costituzione.
 
 ##### Art. 56.
 
