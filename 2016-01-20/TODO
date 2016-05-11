@@ -3,14 +3,14 @@
 * [19/41] implement 2613-D
   see ../docs/2016-01-20/2613-D.html
 ** DONE art 1 - funzioni delle camere
-** TODO art 2
-** TODO art 3
-** TODO art 4
-** TODO art 5
-** TODO art 6
-** TODO art 7
-** TODO art 8
-** TODO art 9
+** DONE art 2 - composizione ed elezione del Senato della Repubblica
+** DONE art 3 - ??
+** DONE art 4 - Durata della Camera dei deputati
+** DONE art 5 - Modifica all'articolo 63 della Costituzione
+** DONE art 6 - Modifiche all'articolo 64 della Costituzione
+** DONE art 7 - Titoli di ammissione dei componenti del Senato della Repubblica
+** DONE art 8 - Vincolo di mandato
+** DONE art 9 - Indennità parlamentare
 ** DONE art 10 - Procedimento legislativo
 ** DONE art 11 - Iniziativa legislativa
 ** DONE art 12 - ??
@@ -24,8 +24,8 @@
 ** DONE art 20 - Inchieste parlamentari
 ** DONE art 21 - Modifiche all'articolo 83 della Costituzione in materia di delegati regionali e di quorum per l'elezione del Presidente della Repubblica 
 ** DONE art 22 - Disposizioni in tema di elezione del Presidente della Repubblica 
-** TODO art 23
-** TODO art 24
+** DONE art 23 - Esercizio delle funzioni del Presidente della Repubblica
+** DONE art 24 - Scioglimento della Camera dei deputati
 ** TODO art 25
 ** TODO art 26
 ** TODO art 27
