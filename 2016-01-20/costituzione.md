@@ -1468,13 +1468,16 @@ La Regione Trentino-Alto Adige/Südtirol è costituita dalle Province autonome d
 Trento e di Bolzano.
 
 Ulteriori forme e condizioni particolari di autonomia, concernenti le materie
-di cui al terzo comma dell'articolo 117 e le materie indicate dal secondo comma
-del medesimo articolo alle lettere l), limitatamente all'organizzazione della
-giustizia di pace, n) e s), possono essere attribuite ad altre Regioni, con
-legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti
-locali, nel rispetto dei principi di cui all'articolo 119. La legge è approvata
-dalle Camere a maggioranza assoluta dei componenti, sulla base di intesa fra lo
-Stato e la Regione interessata.
+di cui all'articolo 117, secondo comma, lettere l), limitatamente all'organizzazione della giustizia di pace, m),
+limitatamente alle disposizioni generali e comuni per le politiche sociali, n),
+o), limitatamente alle politiche attive del lavoro e all'istruzione e formazione
+professionale, q), limitatamente al commercio con l'estero, s) e u),
+limitatamente al governo del territorio, possono essere attribuite ad altre
+Regioni, con legge dello Stato, anche su richiesta delle stesse, sentiti gli
+enti locali, nel rispetto dei princìpi di cui all'articolo 119, purché la
+Regione sia in condizione di equilibrio tra le entrate e le spese del proprio
+bilancio. La legge è approvata da entrambe le Camere, sulla base di intesa tra
+lo Stato e la Regione interessata.
 
 ##### Art. 117.
 
