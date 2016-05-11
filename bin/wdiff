@@ -1,0 +1,16 @@
+#!/bin/bash
+
+if [ -z "$1" -o -z "$2" ] ; then
+    echo "Usage: bin/wdiff FILE1 FILE2"
+    exit 1
+fi
+file1="$1"
+file2="$2"
+shift 2
+
+wdiff \
+    --start-delete '<span class="delete">' \
+    --end-delete   '</span>' \
+    --start-insert '<span class="insert">' \
+    --end-insert   '</span>' \
+    "$file1" "$file2"
