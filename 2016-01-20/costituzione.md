@@ -611,20 +611,34 @@ più alti resti.
 
 ##### Art. 57.
 
-Il Senato della Repubblica è eletto a base regionale, salvi i seggi assegnati
-alla circoscrizione Estero.
+Il Senato della Repubblica è composto da novantacinque senatori rappresentativi
+delle istituzioni territoriali e da cinque senatori che possono essere nominati
+dal Presidente della Repubblica.
 
-Il numero dei senatori elettivi è di trecentoquindici, sei dei quali eletti
-nella circoscrizione Estero.
+I Consigli regionali e i Consigli delle Province autonome di Trento e di
+Bolzano eleggono, con metodo proporzionale, i senatori tra i propri componenti
+e, nella misura di uno per ciascuno, tra i sindaci dei Comuni dei rispettivi
+territori.
 
-Nessuna Regione può avere un numero di senatori inferiore a sette; il Molise ne
-ha due, la Valle d'Aosta uno.
+Nessuna Regione può avere un numero di senatori inferiore a due; ciascuna delle
+Province autonome di Trento e di Bolzano ne ha due.
 
-La ripartizione dei seggi tra le Regioni, fatto salvo il numero dei seggi
-assegnati alla circoscrizione Estero, previa applicazione delle disposizioni
-del precedente comma, si effettua in proporzione alla popolazione delle
-Regioni, quale risulta dall'ultimo censimento generale, sulla base dei
-quozienti interi e dei più alti resti.
+La ripartizione dei seggi tra le Regioni si effettua, previa applicazione delle
+disposizioni del precedente comma, in proporzione alla loro popolazione, quale
+risulta dall'ultimo censimento generale, sulla base dei quozienti interi e dei
+più alti resti.
+
+La durata del mandato dei senatori coincide con quella degli organi delle
+istituzioni territoriali dai quali sono stati eletti, in conformità alle scelte
+espresse dagli elettori per i candidati consiglieri in occasione del rinnovo
+dei medesimi organi, secondo le modalità stabilite dalla legge di cui al sesto
+comma.
+
+Con legge approvata da entrambe le Camere sono regolate le modalità di
+attribuzione dei seggi e di elezione dei membri del Senato della Repubblica tra
+i consiglieri e i sindaci, nonché quelle per la loro sostituzione, in caso di
+cessazione dalla carica elettiva regionale o locale. I seggi sono attribuiti in
+ragione dei voti espressi e della composizione di ciascun Consiglio
 
 ##### Art. 58.
 
@@ -636,19 +650,16 @@ anno.
 
 ##### Art. 59.
 
-È senatore di diritto e a vita, salvo rinunzia, chi è stato Presidente della
-Repubblica.
-
-Il Presidente della Repubblica può nominare senatori a vita cinque cittadini
-che hanno illustrato la Patria per altissimi meriti nel campo sociale,
-scientifico, artistico e letterario.
+Il Presidente della Repubblica può nominare senatori cittadini che hanno
+illustrato la Patria per altissimi meriti nel campo sociale, scientifico,
+artistico e letterario. Tali senatori durano in carica sette anni e non possono
+essere nuovamente nominati.
 
 ##### Art. 60.
 
-La Camera dei deputati e il Senato della Repubblica sono eletti per cinque
-anni.
+La Camera dei deputati è eletta per cinque anni.
 
-La durata di ciascuna Camera non può essere prorogata se non per legge e
+La durata della Camera dei deputati non può essere prorogata se non per legge e
 soltanto in caso di guerra.
 
 ##### Art. 61.
@@ -677,6 +688,10 @@ anche l'altra.
 Ciascuna Camera elegge fra i suoi componenti il Presidente e l'Ufficio di
 presidenza.
 
+Il regolamento stabilisce in quali casi l'elezione o la nomina alle cariche
+negli organi del Senato della Repubblica possono essere limitate in ragione
+dell'esercizio di funzioni di governo regionali o locali.
+
 Quando il Parlamento si riunisce in seduta comune, il Presidente e l'Ufficio di
 presidenza sono quelli della Camera dei deputati.
 
@@ -684,6 +699,10 @@ presidenza sono quelli della Camera dei deputati.
 
 Ciascuna Camera adotta il proprio regolamento a maggioranza assoluta dei suoi
 componenti.
+
+I regolamenti delle Camere garantiscono i diritti delle minoranze parlamentari.
+Il regolamento della Camera dei deputati disciplina lo statuto delle
+opposizioni.
 
 Le sedute sono pubbliche; tuttavia ciascuna delle due Camere e il Parlamento a
 Camere riunite possono deliberare di adunarsi in seduta segreta.
@@ -693,9 +712,11 @@ presente la maggioranza dei loro componenti, e se non sono adottate a
 maggioranza dei presenti, salvo che la Costituzione prescriva una maggioranza
 speciale.
 
-I membri del Governo, anche se non fanno parte delle Camere, hanno diritto, e
-se richiesti obbligo, di assistere alle sedute. Devono essere sentiti ogni
-volta che lo richiedono.
+I membri del Governo hanno diritto, e se richiesti obbligo, di assistere alle
+sedute delle Camere. Devono essere sentiti ogni volta che lo richiedono.
+
+I membri del Parlamento hanno il dovere di partecipare alle sedute
+dell'Assemblea e ai lavori delle Commissioni.
 
 ##### Art. 65.
 
@@ -709,12 +730,14 @@ Nessuno può appartenere contemporaneamente alle due Camere.
 Ciascuna Camera giudica dei titoli di ammissione dei suoi componenti e delle
 cause sopraggiunte di ineleggibilità e di incompatibilità.
 
+Il Senato della Repubblica prende atto della cessazione dalla carica elettiva
+regionale o locale e della conseguente decadenza da senatore.
+
 ##### Art. 67.
 
-Ogni membro del Parlamento rappresenta la Nazione ed esercita le sue funzioni
-senza vincolo di mandato.
+I membri del Parlamento esercitano le loro funzioni senza vincolo di mandato.
 
-##### Art. 68. 9
+##### Art. 68.
 
 I membri del Parlamento non possono essere chiamati a rispondere delle opinioni
 espresse e dei voti dati nell'esercizio delle loro funzioni.
@@ -732,7 +755,7 @@ sequestro di corrispondenza.
 
 ##### Art. 69.
 
-I membri del Parlamento ricevono una indennità stabilita dalla legge.
+I membri della Camera dei deputati ricevono una indennità stabilita dalla legge.
 
 #### Sezione II — La formazione delle leggi
 
