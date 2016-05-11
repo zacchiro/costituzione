@@ -1,0 +1,9 @@
+.delete {
+    background-color: #ffecec;
+    /* text-decoration: line-through; */
+}
+
+.insert {
+    background-color: #a6f3a6;
+    /* font-weight: bold; */
+}
