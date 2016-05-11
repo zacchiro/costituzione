@@ -7,7 +7,10 @@ fi
 
 echo '<html><head>'
 echo '<meta charset="utf-8">'
-echo '<link rel="stylesheet" href="static/costituzione.css">'
+# echo '<link rel="stylesheet" href="static/costituzione.css">'
+echo '<style>'
+cat ../static/costituzione.css
+echo '</style>'
 echo '</head><body>'
 markdown "$1"
 echo '</body></html>'
