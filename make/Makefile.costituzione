@@ -1,10 +1,15 @@
-markdowns = $(wildcard *.md)
-htmls = $(patsubst %.md,%.html,$(markdowns))
+ifneq ($(markdowns),)
+_markdowns = $(markdowns)
+else
+_markdowns = $(wildcard *.md)
+endif
+_htmls = $(patsubst %.md,%.html,$(_markdowns))
 
-all: $(htmls)
+all: htmls
+htmls: $(_htmls)
 
 %.html: %.md
 	../bin/md2html $< > $@
 
 clean:
-	rm -f $(htmls)
+	rm -f $(_htmls)
