@@ -1081,12 +1081,12 @@ Camera nuova. Nel frattempo sono prorogati i poteri del Presidente in carica.
 ##### Art. 86.
 
 Le funzioni del Presidente della Repubblica, in ogni caso che egli non possa
-adempierle, sono esercitate dal Presidente del Senato.
+adempierle, sono esercitate dal Presidente della Camera dei deputati.
 
 In caso di impedimento permanente o di morte o di dimissioni del Presidente
-della Repubblica, il Presidente della Camera dei deputati indice la elezione
-del nuovo Presidente della Repubblica entro quindici giorni, salvo il maggior
-termine previsto se le Camere sono sciolte o manca meno di tre mesi alla loro
+della Repubblica, il Presidente del Senato indice la elezione del nuovo
+Presidente della Repubblica entro quindici giorni, salvo il maggior termine
+previsto se la Camera dei deputati è sciolta o manca meno di tre mesi alla sua
 cessazione.
 
 ##### Art. 87.
@@ -1122,8 +1122,8 @@ Conferisce le onorificenze della Repubblica.
 
 ##### Art. 88.
 
-Il Presidente della Repubblica può, sentiti i loro Presidenti, sciogliere le
-Camere o anche una sola di esse.
+Il Presidente della Repubblica può, sentito il suo Presidente, sciogliere la
+Camera dei deputati.
 
 Non può esercitare tale facoltà negli ultimi sei mesi del suo mandato, salvo
 che essi coincidano in tutto o in parte con gli ultimi sei mesi della
