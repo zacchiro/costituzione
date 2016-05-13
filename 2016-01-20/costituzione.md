@@ -748,7 +748,8 @@ sequestro di corrispondenza.
 
 ##### Art. 69.
 
-I membri della Camera dei deputati ricevono una indennità stabilita dalla legge.
+I membri della Camera dei deputati ricevono una indennità stabilita dalla
+legge.
 
 #### Sezione II — La formazione delle leggi
 
@@ -819,8 +820,8 @@ popolare sono garantite nei tempi, nelle forme e nei limiti stabiliti dai
 regolamenti parlamentari
 
 Al fine di favorire la partecipazione dei cittadini alla determinazione delle
-politiche pubbliche, la legge costituzionale stabilisce condizioni ed effetti di
-referendum popolari propositivi e d'indirizzo, nonché di altre forme di
+politiche pubbliche, la legge costituzionale stabilisce condizioni ed effetti
+di referendum popolari propositivi e d'indirizzo, nonché di altre forme di
 consultazione, anche delle formazioni sociali. Con legge approvata da entrambe
 le Camere sono disposte le modalità di attuazione.
 
@@ -1180,8 +1181,8 @@ Il voto contrario della Camera dei deputati su una proposta del Governo non
 importa obbligo di dimissioni.
 
 La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti
-della Camera dei deputati e non può essere messa in discussione prima di tre giorni dalla
-sua presentazione.
+della Camera dei deputati e non può essere messa in discussione prima di tre
+giorni dalla sua presentazione.
 
 ##### Art. 95.
 
@@ -1433,9 +1434,8 @@ stessa.
 La Repubblica è costituita dai Comuni, dalle Città metropolitane, dalle Regioni
 e dallo Stato.
 
-I Comuni, le Città metropolitane e le Regioni sono enti autonomi
-con propri statuti, poteri e funzioni secondo i princìpi fissati dalla
-Costituzione.
+I Comuni, le Città metropolitane e le Regioni sono enti autonomi con propri
+statuti, poteri e funzioni secondo i princìpi fissati dalla Costituzione.
 
 Roma è la capitale della Repubblica. La legge dello Stato disciplina il suo
 ordinamento.
@@ -1455,16 +1455,17 @@ La Regione Trentino-Alto Adige/Südtirol è costituita dalle Province autonome d
 Trento e di Bolzano.
 
 Ulteriori forme e condizioni particolari di autonomia, concernenti le materie
-di cui all'articolo 117, secondo comma, lettere l), limitatamente all'organizzazione della giustizia di pace, m),
-limitatamente alle disposizioni generali e comuni per le politiche sociali, n),
-o), limitatamente alle politiche attive del lavoro e all'istruzione e formazione
-professionale, q), limitatamente al commercio con l'estero, s) e u),
-limitatamente al governo del territorio, possono essere attribuite ad altre
-Regioni, con legge dello Stato, anche su richiesta delle stesse, sentiti gli
-enti locali, nel rispetto dei princìpi di cui all'articolo 119, purché la
-Regione sia in condizione di equilibrio tra le entrate e le spese del proprio
-bilancio. La legge è approvata da entrambe le Camere, sulla base di intesa tra
-lo Stato e la Regione interessata.
+di cui all'articolo 117, secondo comma, lettere l), limitatamente
+all'organizzazione della giustizia di pace, m), limitatamente alle disposizioni
+generali e comuni per le politiche sociali, n), o), limitatamente alle
+politiche attive del lavoro e all'istruzione e formazione professionale, q),
+limitatamente al commercio con l'estero, s) e u), limitatamente al governo del
+territorio, possono essere attribuite ad altre Regioni, con legge dello Stato,
+anche su richiesta delle stesse, sentiti gli enti locali, nel rispetto dei
+princìpi di cui all'articolo 119, purché la Regione sia in condizione di
+equilibrio tra le entrate e le spese del proprio bilancio. La legge è approvata
+da entrambe le Camere, sulla base di intesa tra lo Stato e la Regione
+interessata.
 
 ##### Art. 117.
 
@@ -1475,8 +1476,8 @@ europea e dagli obblighi internazionali.
 Lo Stato ha legislazione esclusiva nelle seguenti materie:
 
 a) politica estera e rapporti internazionali dello Stato; rapporti dello Stato
-con l'Unione europea; diritto di asilo e condizione giuridica dei cittadini di
-Stati non appartenenti all'Unione europea;
+   con l'Unione europea; diritto di asilo e condizione giuridica dei cittadini
+   di Stati non appartenenti all'Unione europea;
 
 b) immigrazione;
 
@@ -1485,65 +1486,66 @@ c) rapporti tra la Repubblica e le confessioni religiose;
 d) difesa e Forze armate; sicurezza dello Stato; armi, munizioni ed esplosivi;
 
 e) moneta, tutela del risparmio e mercati finanziari e assicurativi; tutela e
-promozione della concorrenza; sistema valutario; sistema tributario e contabile
-dello Stato; armonizzazione dei bilanci pubblici; coordinamento della finanza
-pubblica e del sistema tributario; perequazione delle risorse finanziarie;
+   promozione della concorrenza; sistema valutario; sistema tributario e
+   contabile dello Stato; armonizzazione dei bilanci pubblici; coordinamento
+   della finanza pubblica e del sistema tributario; perequazione delle risorse
+   finanziarie;
 
 f) organi dello Stato e relative leggi elettorali; referendum statali; elezione
-del Parlamento europeo;
+   del Parlamento europeo;
 
 g) ordinamento e organizzazione amministrativa dello Stato e degli enti
-pubblici nazionali; norme sul procedimento amministrativo e sulla disciplina
-giuridica del lavoro alle dipendenze delle amministrazioni pubbliche tese ad
-assicurarne l'uniformità sul territorio nazionale;
+   pubblici nazionali; norme sul procedimento amministrativo e sulla disciplina
+   giuridica del lavoro alle dipendenze delle amministrazioni pubbliche tese ad
+   assicurarne l'uniformità sul territorio nazionale;
 
 h) ordine pubblico e sicurezza, ad esclusione della polizia amministrativa
-locale;
+   locale;
 
 i) cittadinanza, stato civile e anagrafi;
 
 l) giurisdizione e norme processuali; ordinamento civile e penale; giustizia
-amministrativa;
+   amministrativa;
 
 m) determinazione dei livelli essenziali delle prestazioni concernenti i
-diritti civili e sociali che devono essere garantiti su tutto il territorio
-nazionale; disposizioni generali e comuni per la tutela della salute, per le
-politiche sociali e per la sicurezza alimentare;
+   diritti civili e sociali che devono essere garantiti su tutto il territorio
+   nazionale; disposizioni generali e comuni per la tutela della salute, per le
+   politiche sociali e per la sicurezza alimentare;
 
 n) disposizioni generali e comuni sull'istruzione; ordinamento scolastico;
-istruzione universitaria e programmazione strategica della ricerca scientifica
-e tecnologica;
+   istruzione universitaria e programmazione strategica della ricerca
+   scientifica e tecnologica;
 
 o) previdenza sociale, ivi compresa la previdenza complementare e integrativa;
-tutela e sicurezza del lavoro; politiche attive del lavoro; disposizioni
-generali e comuni sull'istruzione e formazione professionale;
+   tutela e sicurezza del lavoro; politiche attive del lavoro; disposizioni
+   generali e comuni sull'istruzione e formazione professionale;
 
 p) ordinamento, legislazione elettorale, organi di governo e funzioni
-fondamentali di Comuni e Città metropolitane; disposizioni di principio sulle
-forme associative dei Comuni;
+   fondamentali di Comuni e Città metropolitane; disposizioni di principio
+   sulle forme associative dei Comuni;
 
 q) dogane, protezione dei confini nazionali e profilassi internazionale;
-commercio con l'estero;
+   commercio con l'estero;
 
 r) pesi, misure e determinazione del tempo; coordinamento informativo
-statistico e informatico dei dati, dei processi e delle relative infrastrutture
-e piattaforme informatiche dell'amministrazione statale, regionale e locale;
-opere dell'ingegno;
+   statistico e informatico dei dati, dei processi e delle relative
+   infrastrutture e piattaforme informatiche dell'amministrazione statale,
+   regionale e locale; opere dell'ingegno;
 
 s) tutela e valorizzazione dei beni culturali e paesaggistici; ambiente ed
-ecosistema; ordinamento sportivo; disposizioni generali e comuni sulle attività
-culturali e sul turismo;
+   ecosistema; ordinamento sportivo; disposizioni generali e comuni sulle
+   attività culturali e sul turismo;
 
 t) ordinamento delle professioni e della comunicazione;
 
 u) disposizioni generali e comuni sul governo del territorio; sistema nazionale
-e coordinamento della protezione civile;
+   e coordinamento della protezione civile;
 
 v) produzione, trasporto e distribuzione nazionali dell'energia;
 
 z) infrastrutture strategiche e grandi reti di trasporto e di navigazione di
-interesse nazionale e relative norme di sicurezza; porti e aeroporti civili, di
-interesse nazionale e internazionale.
+   interesse nazionale e relative norme di sicurezza; porti e aeroporti civili,
+   di interesse nazionale e internazionale.
 
 Spetta alle Regioni la potestà legislativa in materia di rappresentanza delle
 minoranze linguistiche, di pianificazione del territorio regionale e mobilità
@@ -1595,26 +1597,25 @@ disciplinati da leggi dello Stato.
 ##### Art. 118.
 
 Le funzioni amministrative sono attribuite ai Comuni salvo che, per assicurarne
-l'esercizio unitario, siano conferite a Città metropolitane, Regioni
-e Stato, sulla base dei principi di sussidiarietà, differenziazione ed
-adeguatezza.
+l'esercizio unitario, siano conferite a Città metropolitane, Regioni e Stato,
+sulla base dei principi di sussidiarietà, differenziazione ed adeguatezza.
 
 Le funzioni amministrative sono esercitate in modo da assicurare la
 semplificazione e la trasparenza dell'azione amministrativa, secondo criteri di
 efficienza e di responsabilità degli amministratori.
 
-I Comuni e le Città metropolitane sono titolari di funzioni
-amministrative proprie e di quelle conferite con legge statale o regionale,
-secondo le rispettive competenze.
+I Comuni e le Città metropolitane sono titolari di funzioni amministrative
+proprie e di quelle conferite con legge statale o regionale, secondo le
+rispettive competenze.
 
 La legge statale disciplina forme di coordinamento fra Stato e Regioni nelle
 materie di cui alle lettere b) e h) del secondo comma dell'articolo 117, e
 disciplina inoltre forme di intesa e coordinamento in materia di tutela dei
 beni culturali e paesaggistici.
 
-Stato, Regioni, Città metropolitane e Comuni favoriscono l'autonoma
-iniziativa dei cittadini, singoli e associati, per lo svolgimento di attività
-di interesse generale, sulla base del principio di sussidiarietà.
+Stato, Regioni, Città metropolitane e Comuni favoriscono l'autonoma iniziativa
+dei cittadini, singoli e associati, per lo svolgimento di attività di interesse
+generale, sulla base del principio di sussidiarietà.
 
 ##### Art. 119.
 
@@ -1849,13 +1850,11 @@ denominazioni.
 
 ##### Art. 134.
 
-La Corte costituzionale giudica: 
-sulle controversie relative alla legittimità costituzionale delle leggi e degli
-atti, aventi forza di legge, dello Stato e delle Regioni; 
-sui conflitti di attribuzione tra i poteri dello Stato, e su quelli tra lo Stato
-e le Regioni, e tra le Regioni; 
-sulle accuse promosse contro il Presidente della Repubblica, a norma della
-Costituzione.
+La Corte costituzionale giudica: sulle controversie relative alla legittimità
+costituzionale delle leggi e degli atti, aventi forza di legge, dello Stato e
+delle Regioni; sui conflitti di attribuzione tra i poteri dello Stato, e su
+quelli tra lo Stato e le Regioni, e tra le Regioni; sulle accuse promosse
+contro il Presidente della Repubblica, a norma della Costituzione.
 
 La Corte costituzionale giudica altresì della legittimità costituzionale delle
 leggi che disciplinano l'elezione dei membri della Camera dei deputati e del
