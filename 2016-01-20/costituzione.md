@@ -1427,7 +1427,7 @@ La legge determina quali organi di giurisdizione possono annullare gli atti
 della pubblica amministrazione nei casi e con gli effetti previsti dalla legge
 stessa.
 
-### Titolo V — Le Regioni, le Città metropolitane, e i Comuni
+### Titolo V — Le regioni, le città metropolitane, i comuni
 
 ##### Art. 114
 
