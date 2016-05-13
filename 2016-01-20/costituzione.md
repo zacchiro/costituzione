@@ -638,7 +638,7 @@ Con legge approvata da entrambe le Camere sono regolate le modalità di
 attribuzione dei seggi e di elezione dei membri del Senato della Repubblica tra
 i consiglieri e i sindaci, nonché quelle per la loro sostituzione, in caso di
 cessazione dalla carica elettiva regionale o locale. I seggi sono attribuiti in
-ragione dei voti espressi e della composizione di ciascun Consiglio
+ragione dei voti espressi e della composizione di ciascun Consiglio.
 
 ##### Art. 58.
 
