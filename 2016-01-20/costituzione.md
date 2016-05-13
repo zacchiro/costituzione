@@ -1472,14 +1472,14 @@ lo Stato e la Regione interessata.
 ##### Art. 117.
 
 La potestà legislativa è esercitata dallo Stato e dalle Regioni nel rispetto
-della Costituzione, nonché dei vincoli derivanti dall'ordinamento comunitario e
-dagli obblighi internazionali.
-
+della Costituzione, nonché dei vincoli derivanti dall'ordinamento dell'Unione
+europea e dagli obblighi internazionali.
+ 
 Lo Stato ha legislazione esclusiva nelle seguenti materie:
 
 a) politica estera e rapporti internazionali dello Stato; rapporti dello Stato
-   con l'Unione europea; diritto di asilo e condizione giuridica dei cittadini
-   di Stati non appartenenti all'Unione europea;
+con l'Unione europea; diritto di asilo e condizione giuridica dei cittadini di
+Stati non appartenenti all'Unione europea;
 
 b) immigrazione;
 
@@ -1487,75 +1487,101 @@ c) rapporti tra la Repubblica e le confessioni religiose;
 
 d) difesa e Forze armate; sicurezza dello Stato; armi, munizioni ed esplosivi;
 
-e) moneta, tutela del risparmio e mercati finanziari; tutela della concorrenza;
-   sistema valutario; sistema tributario e contabile dello Stato;
-   armonizzazione dei bilanci pubblici; perequazione delle risorse finanziarie;
+e) moneta, tutela del risparmio e mercati finanziari e assicurativi; tutela e
+promozione della concorrenza; sistema valutario; sistema tributario e contabile
+dello Stato; armonizzazione dei bilanci pubblici; coordinamento della finanza
+pubblica e del sistema tributario; perequazione delle risorse finanziarie;
 
 f) organi dello Stato e relative leggi elettorali; referendum statali; elezione
-   del Parlamento europeo;
+del Parlamento europeo;
 
 g) ordinamento e organizzazione amministrativa dello Stato e degli enti
-   pubblici nazionali;
+pubblici nazionali; norme sul procedimento amministrativo e sulla disciplina
+giuridica del lavoro alle dipendenze delle amministrazioni pubbliche tese ad
+assicurarne l'uniformità sul territorio nazionale;
 
 h) ordine pubblico e sicurezza, ad esclusione della polizia amministrativa
-   locale;
+locale;
 
 i) cittadinanza, stato civile e anagrafi;
 
 l) giurisdizione e norme processuali; ordinamento civile e penale; giustizia
-   amministrativa;
+amministrativa;
 
 m) determinazione dei livelli essenziali delle prestazioni concernenti i
-   diritti civili e sociali che devono essere garantiti su tutto il territorio
-   nazionale;
+diritti civili e sociali che devono essere garantiti su tutto il territorio
+nazionale; disposizioni generali e comuni per la tutela della salute, per le
+politiche sociali e per la sicurezza alimentare;
 
-n) norme generali sull'istruzione;
+n) disposizioni generali e comuni sull'istruzione; ordinamento scolastico;
+istruzione universitaria e programmazione strategica della ricerca scientifica
+e tecnologica;
 
-o) previdenza sociale;
+o) previdenza sociale, ivi compresa la previdenza complementare e integrativa;
+tutela e sicurezza del lavoro; politiche attive del lavoro; disposizioni
+generali e comuni sull'istruzione e formazione professionale;
 
-p) legislazione elettorale, organi di governo e funzioni fondamentali di
-   Comuni, Province e Città metropolitane;
+p) ordinamento, legislazione elettorale, organi di governo e funzioni
+fondamentali di Comuni e Città metropolitane; disposizioni di principio sulle
+forme associative dei Comuni;
 
 q) dogane, protezione dei confini nazionali e profilassi internazionale;
+commercio con l'estero;
 
 r) pesi, misure e determinazione del tempo; coordinamento informativo
-   statistico e informatico dei dati dell'amministrazione statale, regionale e
-   locale; opere dell'ingegno;
+statistico e informatico dei dati, dei processi e delle relative infrastrutture
+e piattaforme informatiche dell'amministrazione statale, regionale e locale;
+opere dell'ingegno;
 
-s) tutela dell'ambiente, dell'ecosistema e dei beni culturali.
+s) tutela e valorizzazione dei beni culturali e paesaggistici; ambiente ed
+ecosistema; ordinamento sportivo; disposizioni generali e comuni sulle attività
+culturali e sul turismo;
 
-Sono materie di legislazione concorrente quelle relative a: rapporti
-internazionali e con l'Unione europea delle Regioni; commercio con l'estero;
-tutela e sicurezza del lavoro; istruzione, salva l'autonomia delle istituzioni
-scolastiche e con esclusione della istruzione e della formazione professionale;
-professioni; ricerca scientifica e tecnologica e sostegno all'innovazione per i
-settori produttivi; tutela della salute; alimentazione; ordinamento sportivo;
-protezione civile; governo del territorio; porti e aeroporti civili; grandi
-reti di trasporto e di navigazione; ordinamento della comunicazione;
-produzione, trasporto e distribuzione nazionale dell'energia; previdenza
-complementare e integrativa; coordinamento della finanza pubblica e del sistema
-tributario; valorizzazione dei beni culturali e ambientali e promozione e
-organizzazione di attività culturali; casse di risparmio, casse rurali, aziende
-di credito a carattere regionale; enti di credito fondiario e agrario a
-carattere regionale. Nelle materie di legislazione concorrente spetta alle
-Regioni la potestà legislativa, salvo che per la determinazione dei principi
-fondamentali, riservata alla legislazione dello Stato.
+t) ordinamento delle professioni e della comunicazione;
 
-Spetta alle Regioni la potestà legislativa in riferimento ad ogni materia non
-espressamente riservata alla legislazione dello Stato.
+u) disposizioni generali e comuni sul governo del territorio; sistema nazionale
+e coordinamento della protezione civile;
+
+v) produzione, trasporto e distribuzione nazionali dell'energia;
+
+z) infrastrutture strategiche e grandi reti di trasporto e di navigazione di
+interesse nazionale e relative norme di sicurezza; porti e aeroporti civili, di
+interesse nazionale e internazionale.
+
+Spetta alle Regioni la potestà legislativa in materia di rappresentanza delle
+minoranze linguistiche, di pianificazione del territorio regionale e mobilità
+al suo interno, di dotazione infrastrutturale, di programmazione e
+organizzazione dei servizi sanitari e sociali, di promozione dello sviluppo
+economico locale e organizzazione in ambito regionale dei servizi alle imprese
+e della formazione professionale; salva l'autonomia delle istituzioni
+scolastiche, in materia di servizi scolastici, di promozione del diritto allo
+studio, anche universitario; in materia di disciplina, per quanto di interesse
+regionale, delle attività culturali, della promozione dei beni ambientali,
+culturali e paesaggistici, di valorizzazione e organizzazione regionale del
+turismo, di regolazione, sulla base di apposite intese concluse in ambito
+regionale, delle relazioni finanziarie tra gli enti territoriali della Regione
+per il rispetto degli obiettivi programmatici regionali e locali di finanza
+pubblica, nonché in ogni materia non espressamente riservata alla competenza
+esclusiva dello Stato.
+
+Su proposta del Governo, la legge dello Stato può intervenire in materie non
+riservate alla legislazione esclusiva quando lo richieda la tutela dell'unità
+giuridica o economica della Repubblica, ovvero la tutela dell'interesse
+nazionale.
 
 Le Regioni e le Province autonome di Trento e di Bolzano, nelle materie di loro
 competenza, partecipano alle decisioni dirette alla formazione degli atti
-normativi comunitari e provvedono all'attuazione e all'esecuzione degli accordi
-internazionali e degli atti dell'Unione europea, nel rispetto delle norme di
-procedura stabilite da legge dello Stato, che disciplina le modalità di
-esercizio del potere sostitutivo in caso di inadempienza.
+normativi dell'Unione europea e provvedono all'attuazione e all'esecuzione
+degli accordi internazionali e degli atti dell'Unione europea, nel rispetto
+delle norme di procedura stabilite con legge dello Stato, che disciplina le
+modalità di esercizio del potere sostitutivo in caso di inadempienza.
 
-La potestà regolamentare spetta allo Stato nelle materie di legislazione
-esclusiva, salva delega alle Regioni. La potestà regolamentare spetta alle
-Regioni in ogni altra materia. I Comuni, le Province e le Città metropolitane
-hanno potestà regolamentare in ordine alla disciplina dell'organizzazione e
-dello svolgimento delle funzioni loro attribuite.
+La potestà regolamentare spetta allo Stato e alle Regioni secondo le rispettive
+competenze legislative. È fatta salva la facoltà dello Stato di delegare alle
+Regioni l'esercizio di tale potestà nelle materie di competenza legislativa
+esclusiva. I Comuni e le Città metropolitane hanno potestà regolamentare in
+ordine alla disciplina dell'organizzazione e dello svolgimento delle funzioni
+loro attribuite, nel rispetto della legge statale o regionale.
 
 Le leggi regionali rimuovono ogni ostacolo che impedisce la piena parità degli
 uomini e delle donne nella vita sociale, culturale ed economica e promuovono la
@@ -1572,57 +1598,64 @@ disciplinati da leggi dello Stato.
 ##### Art. 118.
 
 Le funzioni amministrative sono attribuite ai Comuni salvo che, per assicurarne
-l'esercizio unitario, siano conferite a Province, Città metropolitane, Regioni
+l'esercizio unitario, siano conferite a Città metropolitane, Regioni
 e Stato, sulla base dei principi di sussidiarietà, differenziazione ed
 adeguatezza.
 
-I Comuni, le Province e le Città metropolitane sono titolari di funzioni
+Le funzioni amministrative sono esercitate in modo da assicurare la
+semplificazione e la trasparenza dell'azione amministrativa, secondo criteri di
+efficienza e di responsabilità degli amministratori.
+
+I Comuni e le Città metropolitane sono titolari di funzioni
 amministrative proprie e di quelle conferite con legge statale o regionale,
 secondo le rispettive competenze.
 
 La legge statale disciplina forme di coordinamento fra Stato e Regioni nelle
 materie di cui alle lettere b) e h) del secondo comma dell'articolo 117, e
-disciplina inoltre forme di intesa e coordinamento nella materia della tutela
-dei beni culturali.
+disciplina inoltre forme di intesa e coordinamento in materia di tutela dei
+beni culturali e paesaggistici.
 
-Stato, Regioni, Città metropolitane, Province e Comuni favoriscono l'autonoma
+Stato, Regioni, Città metropolitane e Comuni favoriscono l'autonoma
 iniziativa dei cittadini, singoli e associati, per lo svolgimento di attività
 di interesse generale, sulla base del principio di sussidiarietà.
 
 ##### Art. 119.
 
-I Comuni, le Province, le Città metropolitane e le Regioni hanno autonomia
-finanziaria di entrata e di spesa, nel rispetto dell'equilibrio dei relativi
-bilanci, e concorrono ad assicurare l'osservanza dei vincoli economici e
-finanziari derivanti dall'ordinamento dell'Unione europea.
+I Comuni, le Città metropolitane e le Regioni hanno autonomia finanziaria di
+entrata e di spesa, nel rispetto dell'equilibrio dei relativi bilanci, e
+concorrono ad assicurare l'osservanza dei vincoli economici e finanziari
+derivanti dall'ordinamento dell'Unione europea.
 
-I Comuni, le Province, le Città metropolitane e le Regioni hanno risorse
-autonome. Stabiliscono e applicano tributi ed entrate propri, in armonia con la
-Costituzione e secondo i principi di coordinamento della finanza pubblica e del
-sistema tributario. Dispongono di compartecipazioni al gettito di tributi
-erariali riferibile al loro territorio.
+I Comuni, le Città metropolitane e le Regioni hanno risorse autonome.
+Stabiliscono e applicano tributi ed entrate propri e dispongono di
+compartecipazioni al gettito di tributi erariali riferibile al loro territorio,
+in armonia con la Costituzione e secondo quanto disposto dalla legge dello
+Stato ai fini del coordinamento della finanza pubblica e del sistema
+tributario.
 
 La legge dello Stato istituisce un fondo perequativo, senza vincoli di
 destinazione, per i territori con minore capacità fiscale per abitante.
 
-Le risorse derivanti dalle fonti di cui ai commi precedenti consentono ai
-Comuni, alle Province, alle Città metropolitane e alle Regioni di finanziare
-integralmente le funzioni pubbliche loro attribuite.
+Le risorse derivanti dalle fonti di cui ai commi precedenti assicurano il
+finanziamento integrale delle funzioni pubbliche dei Comuni, delle Città
+metropolitane e delle Regioni. Con legge dello Stato sono definiti indicatori
+di riferimento di costo e di fabbisogno che promuovono condizioni di efficienza
+nell'esercizio delle medesime funzioni.
 
 Per promuovere lo sviluppo economico, la coesione e la solidarietà sociale, per
 rimuovere gli squilibri economici e sociali, per favorire l'effettivo esercizio
 dei diritti della persona, o per provvedere a scopi diversi dal normale
 esercizio delle loro funzioni, lo Stato destina risorse aggiuntive ed effettua
-interventi speciali in favore di determinati Comuni, Province, Città
-metropolitane e Regioni.
+interventi speciali in favore di determinati Comuni, Città metropolitane e
+Regioni.
 
-I Comuni, le Province, le Città metropolitane e le Regioni hanno un proprio
-patrimonio, attribuito secondo i principi generali determinati dalla legge
-dello Stato. Possono ricorrere all'indebitamento solo per finanziare spese di
-investimento, con la contestuale definizione di piani di ammortamento e a
-condizione che per il complesso degli enti di ciascuna Regione sia rispettato
-l'equilibrio di bilancio. È esclusa ogni garanzia dello Stato sui prestiti
-dagli stessi contratti.
+I Comuni, le Città metropolitane e le Regioni hanno un proprio patrimonio,
+attribuito secondo i princìpi generali determinati dalla legge dello Stato.
+Possono ricorrere all'indebitamento solo per finanziare spese di investimento,
+con la contestuale definizione di piani di ammortamento e a condizione che per
+il complesso degli enti di ciascuna Regione sia rispettato l'equilibrio di
+bilancio. È esclusa ogni garanzia dello Stato sui prestiti dagli stessi
+contratti.
 
 ##### Art. 120.
 
@@ -1631,16 +1664,20 @@ le Regioni, né adottare provvedimenti che ostacolino in qualsiasi modo la
 libera circolazione delle persone e delle cose tra le Regioni, né limitare
 l'esercizio del diritto al lavoro in qualunque parte del territorio nazionale.
 
-Il Governo può sostituirsi a organi delle Regioni, delle Città metropolitane,
-delle Province e dei Comuni nel caso di mancato rispetto di norme e trattati
+Il Governo, acquisito, salvi i casi di motivata urgenza, il parere del Senato
+della Repubblica, che deve essere reso entro quindici giorni dalla richiesta,
+può sostituirsi a organi delle Regioni, delle Città metropolitane, delle
+Province e dei Comuni nel caso di mancato rispetto di norme e trattati
 internazionali o della normativa comunitaria oppure di pericolo grave per
 l'incolumità e la sicurezza pubblica, ovvero quando lo richiedono la tutela
 dell'unità giuridica o dell'unità economica e in particolare la tutela dei
 livelli essenziali delle prestazioni concernenti i diritti civili e sociali,
 prescindendo dai confini territoriali dei governi locali. La legge definisce le
 procedure atte a garantire che i poteri sostitutivi siano esercitati nel
-rispetto del principio di sussidiarietà e del principio di leale
-collaborazione.
+rispetto del principio di sussidiarietà e del principio di leale collaborazione
+e stabilisce i casi di esclusione dei titolari di organi di governo regionali e
+locali dall'esercizio delle rispettive funzioni quando è stato accertato lo
+stato di grave dissesto finanziario dell'ente.
 
 ##### Art. 121.
 
@@ -1664,7 +1701,10 @@ Il sistema di elezione e i casi di ineleggibilità e di incompatibilità del
 Presidente e degli altri componenti della Giunta regionale nonché dei
 consiglieri regionali sono disciplinati con legge della Regione nei limiti dei
 principi fondamentali stabiliti con legge della Repubblica, che stabilisce
-anche la durata degli organi elettivi.
+anche la durata degli organi elettivi e i relativi emolumenti nel limite
+dell'importo di quelli attribuiti ai sindaci dei Comuni capoluogo di Regione.
+La legge della Repubblica stabilisce altresì i princìpi fondamentali per
+promuovere l'equilibrio tra donne e uomini nella rappresentanza.
 
 Nessuno può appartenere contemporaneamente a un Consiglio o a una Giunta
 regionale e ad una delle Camere del Parlamento, ad un altro Consiglio o ad
