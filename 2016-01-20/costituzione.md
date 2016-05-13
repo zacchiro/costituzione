@@ -502,11 +502,11 @@ civico.
 
 La legge stabilisce requisiti e modalità per l'esercizio del diritto di voto
 dei cittadini residenti all'estero e ne assicura l'effettività. A tale fine è
-istituita una circoscrizione Estero per l'elezione delle Camere, alla quale
-sono assegnati seggi nel numero stabilito da norma costituzionale e secondo
-criteri determinati dalla legge. Il diritto di voto non può essere limitato se
-non per incapacità civile o per effetto di sentenza penale irrevocabile o nei
-casi di indegnità morale indicati dalla legge.
+istituita una circoscrizione Estero per l'elezione della Camera dei deputati,
+alla quale sono assegnati seggi nel numero stabilito da norma costituzionale e
+secondo criteri determinati dalla legge. Il diritto di voto non può essere
+limitato se non per incapacità civile o per effetto di sentenza penale
+irrevocabile o nei casi di indegnità morale indicati dalla legge.
 
 ##### Art. 49.
 
@@ -642,11 +642,7 @@ ragione dei voti espressi e della composizione di ciascun Consiglio
 
 ##### Art. 58.
 
-I senatori sono eletti a suffragio universale e diretto dagli elettori che
-hanno superato il venticinquesimo anno di età.
-
-Sono eleggibili a senatori gli elettori che hanno compiuto il quarantesimo
-anno.
+L'articolo 58 della Costituzione è abrogato
 
 ##### Art. 59.
 
@@ -664,12 +660,12 @@ soltanto in caso di guerra.
 
 ##### Art. 61.
 
-Le elezioni delle nuove Camere hanno luogo entro settanta giorni dalla fine
-delle precedenti. La prima riunione ha luogo non oltre il ventesimo giorno
-dalle elezioni.
+L'elezione della nuova Camera dei deputati ha luogo entro settanta giorni dalla
+fine della precedente. La prima riunione ha luogo non oltre il ventesimo giorno
+dall'elezione.
 
-Finché non siano riunite le nuove Camere sono prorogati i poteri delle
-precedenti.
+Finché non sia riunita la nuova Camera dei deputati sono prorogati i poteri
+della precedente.
 
 ##### Art. 62.
 
@@ -679,9 +675,6 @@ ottobre.
 Ciascuna Camera può essere convocata in via straordinaria per iniziativa del
 suo Presidente o del Presidente della Repubblica o di un terzo dei suoi
 componenti.
-
-Quando si riunisce in via straordinaria una Camera, è convocata di diritto
-anche l'altra.
 
 ##### Art. 63.
 
@@ -893,8 +886,8 @@ allora, resta sospeso il termine per la promulgazione della legge. In caso di
 dichiarazione di illegittimità costituzionale, la legge non può essere
 promulgata.
 
-Se le Camere, ciascuna a maggioranza assoluta dei propri componenti, ne
-dichiarano l'urgenza, la legge è promulgata nel termine da essa stabilito.
+Se la Camera dei deputati, a maggioranza assoluta dei suoi componenti, ne
+dichiara l'urgenza, la legge è promulgata nel termine da essa stabilito.
 
 Le leggi sono pubblicate subito dopo la promulgazione ed entrano in vigore il
 quindicesimo giorno successivo alla loro pubblicazione, salvo che le leggi
@@ -1009,16 +1002,17 @@ entrambe le Camere.
 
 Lo Stato assicura l'equilibrio tra le entrate e le spese del proprio bilancio,
 tenendo conto delle fasi avverse e delle fasi favorevoli del ciclo economico.
+
 Il ricorso all'indebitamento è consentito solo al fine di considerare gli
-effetti del ciclo economico e, previa autorizzazione delle Camere adottata a
-maggioranza assoluta dei rispettivi componenti, al verificarsi di eventi
+effetti del ciclo economico e, previa autorizzazione della Camera dei deputati
+adottata a maggioranza assoluta dei suoi componenti, al verificarsi di eventi
 eccezionali.
 
 Ogni legge che importi nuovi o maggiori oneri provvede ai mezzi per farvi
 fronte.
 
-Le Camere ogni anno approvano con legge il bilancio e il rendiconto consuntivo
-presentati dal Governo.
+La Camera dei deputati ogni anno approva con legge il bilancio e il rendiconto
+consuntivo presentati dal Governo.
 
 L'esercizio provvisorio del bilancio non può essere concesso se non per legge e
 per periodi non superiori complessivamente a quattro mesi.
@@ -1026,8 +1020,9 @@ per periodi non superiori complessivamente a quattro mesi.
 Il contenuto della legge di bilancio, le norme fondamentali e i criteri volti
 ad assicurare l'equilibrio tra le entrate e le spese dei bilanci e la
 sostenibilità del debito del complesso delle pubbliche amministrazioni sono
-stabiliti con legge approvata a maggioranza assoluta dei componenti di ciascuna
-Camera, nel rispetto dei principi definiti con legge costituzionale.
+stabiliti con legge approvata a maggioranza assoluta dei componenti della
+Camera dei deputati, nel rispetto dei principi definiti con legge
+costituzionale.
 
 ##### Art. 82.
 
@@ -1096,7 +1091,7 @@ nazionale.
 
 Può inviare messaggi alle Camere.
 
-Indice le elezioni delle nuove Camere e ne fissa la prima riunione.
+Indice le elezioni della nuova Camera dei deputati ne fissa la prima riunione.
 
 Autorizza la presentazione alle Camere dei disegni di legge di iniziativa del
 Governo.
@@ -1108,11 +1103,13 @@ Indice il referendum popolare nei casi previsti dalla Costituzione.
 Nomina, nei casi indicati dalla legge, i funzionari dello Stato.
 
 Accredita e riceve i rappresentanti diplomatici, ratifica i trattati
-internazionali, previa, quando occorra, l'autorizzazione delle Camere.
+internazionali, previa, quando occorra, l'autorizzazione della Camera dei
+deputati. Ratifica i trattati relativi all'appartenenza dell'Italia all'Unione
+europea, previa l'autorizzazione di entrambe le Camere.
 
 Ha il comando delle Forze armate, presiede il Consiglio supremo di difesa
-costituito secondo la legge, dichiara lo stato di guerra deliberato dalle
-Camere.
+costituito secondo la legge, dichiara lo stato di guerra deliberato dalla
+Camera dei deputati.
 
 Presiede il Consiglio superiore della magistratura.
 
@@ -1171,19 +1168,19 @@ funzioni, prestano giuramento nelle mani del Presidente della Repubblica.
 
 ##### Art. 94.
 
-Il Governo deve avere la fiducia delle due Camere.
+Il Governo deve avere la fiducia della Camera dei deputati.
 
-Ciascuna Camera accorda o revoca la fiducia mediante mozione motivata e votata
-per appello nominale.
+La fiducia è accordata o revocata mediante mozione motivata e votata per
+appello nominale.
 
-Entro dieci giorni dalla sua formazione il Governo si presenta alle Camere per
-ottenerne la fiducia.
+Entro dieci giorni dalla sua formazione il Governo si presenta innanzi alla
+Camera dei deputati per ottenerne la fiducia.
 
-Il voto contrario di una o d'entrambe le Camere su una proposta del Governo non
+Il voto contrario della Camera dei deputati su una proposta del Governo non
 importa obbligo di dimissioni.
 
 La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti
-della Camera e non può essere messa in discussione prima di tre giorni dalla
+della Camera dei deputati e non può essere messa in discussione prima di tre giorni dalla
 sua presentazione.
 
 ##### Art. 95.
@@ -1429,7 +1426,7 @@ La legge determina quali organi di giurisdizione possono annullare gli atti
 della pubblica amministrazione nei casi e con gli effetti previsti dalla legge
 stessa.
 
-### Titolo V — Le regioni, le provincie, i comuni
+### Titolo V — Le Regioni, le Città metropolitane, e i Comuni
 
 ##### Art. 114
 
@@ -1667,17 +1664,18 @@ l'esercizio del diritto al lavoro in qualunque parte del territorio nazionale.
 Il Governo, acquisito, salvi i casi di motivata urgenza, il parere del Senato
 della Repubblica, che deve essere reso entro quindici giorni dalla richiesta,
 può sostituirsi a organi delle Regioni, delle Città metropolitane, delle
-Province e dei Comuni nel caso di mancato rispetto di norme e trattati
-internazionali o della normativa comunitaria oppure di pericolo grave per
-l'incolumità e la sicurezza pubblica, ovvero quando lo richiedono la tutela
-dell'unità giuridica o dell'unità economica e in particolare la tutela dei
-livelli essenziali delle prestazioni concernenti i diritti civili e sociali,
-prescindendo dai confini territoriali dei governi locali. La legge definisce le
-procedure atte a garantire che i poteri sostitutivi siano esercitati nel
-rispetto del principio di sussidiarietà e del principio di leale collaborazione
-e stabilisce i casi di esclusione dei titolari di organi di governo regionali e
-locali dall'esercizio delle rispettive funzioni quando è stato accertato lo
-stato di grave dissesto finanziario dell'ente.
+Province autonome di Trento e di Bolzano e dei Comuni nel caso di mancato
+rispetto di norme e trattati internazionali o della normativa comunitaria
+oppure di pericolo grave per l'incolumità e la sicurezza pubblica, ovvero
+quando lo richiedono la tutela dell'unità giuridica o dell'unità economica e in
+particolare la tutela dei livelli essenziali delle prestazioni concernenti i
+diritti civili e sociali, prescindendo dai confini territoriali dei governi
+locali. La legge definisce le procedure atte a garantire che i poteri
+sostitutivi siano esercitati nel rispetto del principio di sussidiarietà e del
+principio di leale collaborazione e stabilisce i casi di esclusione dei
+titolari di organi di governo regionali e locali dall'esercizio delle
+rispettive funzioni quando è stato accertato lo stato di grave dissesto
+finanziario dell'ente.
 
 ##### Art. 121.
 
@@ -1686,7 +1684,7 @@ Presidente.
 
 Il Consiglio regionale esercita le potestà legislative attribuite alla Regione
 e le altre funzioni conferitegli dalla Costituzione e dalle leggi. Può fare
-proposte di legge alle Camere.
+proposte di legge alla Camera dei deputati.
 
 La Giunta regionale è l'organo esecutivo delle Regioni.
 
@@ -1707,8 +1705,8 @@ La legge della Repubblica stabilisce altresì i princìpi fondamentali per
 promuovere l'equilibrio tra donne e uomini nella rappresentanza.
 
 Nessuno può appartenere contemporaneamente a un Consiglio o a una Giunta
-regionale e ad una delle Camere del Parlamento, ad un altro Consiglio o ad
-altra Giunta regionale, ovvero al Parlamento europeo.
+regionale e alla Camera dei deputati, ad un altro Consiglio o ad altra Giunta
+regionale, ovvero al Parlamento europeo.
 
 Il Consiglio elegge tra i suoi componenti un Presidente e un ufficio di
 presidenza.
@@ -1834,17 +1832,12 @@ un milione d'abitanti, quando ne facciano richiesta tanti Consigli comunali che
 rappresentino almeno un terzo delle popolazioni interessate, e la proposta sia
 approvata con referendum dalla maggioranza delle popolazioni stesse.
 
-Si può, con l'approvazione della maggioranza delle popolazioni della Provincia
-o delle Province interessate e del Comune o dei Comuni interessati espressa
-mediante referendum e con legge della Repubblica, sentiti i Consigli regionali,
-consentire che Provincie e Comuni, che ne facciano richiesta, siano staccati da
-una Regione ed aggregati ad un'altra.
+Si può, con l'approvazione della maggioranza delle popolazioni del Comune o dei
+Comuni interessati espressa mediante referendum e con legge della Repubblica,
+sentiti i Consigli regionali, consentire che i Comuni, che ne facciano
+richiesta, siano staccati da una Regione ed aggregati ad un'altra.
 
 ##### Art. 133.
-
-Il mutamento delle circoscrizioni provinciali e la istituzione di nuove
-Provincie nell'ambito d'una Regione sono stabiliti con legge della Repubblica,
-su iniziative dei Comuni, sentita la stessa Regione.
 
 La Regione, sentite le popolazioni interessate, può con sue leggi istituire nel
 proprio territorio nuovi Comuni e modificare le loro circoscrizioni e
