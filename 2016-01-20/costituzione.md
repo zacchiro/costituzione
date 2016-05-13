@@ -1171,19 +1171,19 @@ funzioni, prestano giuramento nelle mani del Presidente della Repubblica.
 
 ##### Art. 94.
 
-Il Governo deve avere la fiducia delle due Camere.
+Il Governo deve avere la fiducia della Camera dei deputati.
 
-Ciascuna Camera accorda o revoca la fiducia mediante mozione motivata e votata
-per appello nominale.
+La fiducia è accordata o revocata mediante mozione motivata e votata per
+appello nominale.
 
-Entro dieci giorni dalla sua formazione il Governo si presenta alle Camere per
-ottenerne la fiducia.
+Entro dieci giorni dalla sua formazione il Governo si presenta innanzi alla
+Camera dei deputati per ottenerne la fiducia.
 
-Il voto contrario di una o d'entrambe le Camere su una proposta del Governo non
+Il voto contrario della Camera dei deputati su una proposta del Governo non
 importa obbligo di dimissioni.
 
 La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti
-della Camera e non può essere messa in discussione prima di tre giorni dalla
+della Camera dei deputati e non può essere messa in discussione prima di tre giorni dalla
 sua presentazione.
 
 ##### Art. 95.
