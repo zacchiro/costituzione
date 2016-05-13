@@ -1202,9 +1202,8 @@ numero, le attribuzioni e l'organizzazione dei ministeri.
 
 Il Presidente del Consiglio dei ministri e i ministri, anche se cessati dalla
 carica, sono sottoposti, per i reati commessi nell'esercizio delle loro
-funzioni, alla giurisdizione ordinaria, previa autorizzazione del Senato della
-Repubblica o della Camera dei Deputati, secondo le norme stabilite con legge
-costituzionale.
+funzioni, alla giurisdizione ordinaria, previa autorizzazione della Camera dei
+Deputati, secondo le norme stabilite con legge costituzionale.
 
 #### Sezione II — La pubblica amministrazione
 
@@ -1215,7 +1214,8 @@ europea, assicurano l'equilibrio dei bilanci e la sostenibilità del debito
 pubblico.
 
 I pubblici uffici sono organizzati secondo disposizioni di legge, in modo che
-siano assicurati il buon andamento e l'imparzialità dell'amministrazione.
+siano assicurati il buon andamento, l'imparzialità e la trasparenza
+dell'amministrazione
 
 Nell'ordinamento degli uffici sono determinate le sfere di competenza, le
 attribuzioni e le responsabilità proprie dei funzionari.
@@ -1239,17 +1239,7 @@ all'estero.
 
 ##### Art. 99.
 
-Il Consiglio nazionale dell'economia e del lavoro è composto, nei modi
-stabiliti dalla legge, di esperti e di rappresentanti delle categorie
-produttive, in misura che tenga conto della loro importanza numerica e
-qualitativa.
-
-È organo di consulenza delle Camere e del Governo per le materie e secondo le
-funzioni che gli sono attribuite dalla legge.
-
-Ha l'iniziativa legislativa e può contribuire alla elaborazione della
-legislazione economica e sociale secondo i principî ed entro i limiti stabiliti
-dalla legge.
+L'articolo 99 della Costituzione è abrogato.
 
 ##### Art. 100.
 
@@ -1443,10 +1433,10 @@ stessa.
 
 ##### Art. 114
 
-La Repubblica è costituita dai Comuni, dalle Province, dalle Città
-metropolitane, dalle Regioni e dallo Stato.
+La Repubblica è costituita dai Comuni, dalle Città metropolitane, dalle Regioni
+e dallo Stato.
 
-I Comuni, le Province, le Città metropolitane e le Regioni sono enti autonomi
+I Comuni, le Città metropolitane e le Regioni sono enti autonomi
 con propri statuti, poteri e funzioni secondo i princìpi fissati dalla
 Costituzione.
 
