@@ -642,7 +642,7 @@ ragione dei voti espressi e della composizione di ciascun Consiglio
 
 ##### Art. 58.
 
-L'articolo 58 della Costituzione è abrogato
+Abrogato
 
 ##### Art. 59.
 
@@ -1236,7 +1236,7 @@ all'estero.
 
 ##### Art. 99.
 
-L'articolo 99 della Costituzione è abrogato.
+Abrogato
 
 ##### Art. 100.
 
