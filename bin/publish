@@ -1,0 +1,34 @@
+#!/bin/bash
+
+diff_dir="diffs"
+html_dir="public_html"
+
+install_md () {
+    src="$1"
+    dst="$2"
+
+    echo "---" > "$dst"
+    echo "layout: page" >> "$dst"
+    echo "---" >> "$dst"
+    cat "$src" >> "$dst"
+}
+
+fulltext_dir="${html_dir}/fulltext"
+test -d "$fulltext_dir" || mkdir -p "$fulltext_dir"
+
+costituzioni=$(ls | egrep '^....-..-..$')
+for c in $costituzioni ; do
+    install_md "${c}/costituzione.md" "${fulltext_dir}/${c}.md"
+done
+
+for md_diff in "$diff_dir"/*.md ; do
+    diff=$(echo $md_diff | sed -e "s@$diff_dir/@@" -e "s@.md@@")
+    diff_from=$(echo $diff | sed -e 's/-to.*//')
+    diff_to=$(echo $diff | sed -e 's/.*-to-//')
+
+    dest_dir="${html_dir}/diff/${diff_from}"
+    dest_file="${dest_dir}/${diff_to}.md"
+    test -d "$dest_dir" || mkdir -p "$dest_dir"
+
+    install_md "$md_diff" "$dest_file"
+done
