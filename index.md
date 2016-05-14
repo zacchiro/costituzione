@@ -4,7 +4,7 @@ title: Sane e robuste Costituzioni
 tagline: varie versioni della Costituzione Italiana e confronti fra loro
 ---
 
-## Versioni della Costituzione Italiana disponibili
+## Versioni della Costituzione
 
 * **[2012-04-20](fulltext/2012-04-20)**: come modificata da Legge
   costituzionale 20 aprile 2012, n. 1; Gazzetta Ufficiale 23 aprile 2012,
@@ -15,7 +15,7 @@ tagline: varie versioni della Costituzione Italiana e confronti fra loro
   definitiva della riforma via referendum
 
 
-## Confronti tra versioni della Costituzione Italiana
+## Confronti tra versioni
 
 * **[riforma Boschi](diff/2012-04-20/2016-01-20)**: proposta di modifica dalla
   Costituzione [2012-04-20](fulltext/2012-04-20) alla Costituzione
