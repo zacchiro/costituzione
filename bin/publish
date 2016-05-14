@@ -4,11 +4,14 @@ diff_dir="diffs"
 html_dir="public_html"
 
 install_md () {
-    src="$1"
-    dst="$2"
+    title="$1"
+    src="$2"
+    dst="$3"
+    shift 3
 
     echo "---" > "$dst"
     echo "layout: page" >> "$dst"
+    echo "title: ${title}" >> "$dst"
     echo "---" >> "$dst"
     cat "$src" >> "$dst"
 }
@@ -18,7 +21,9 @@ test -d "$fulltext_dir" || mkdir -p "$fulltext_dir"
 
 costituzioni=$(ls | egrep '^....-..-..$')
 for c in $costituzioni ; do
-    install_md "${c}/costituzione.md" "${fulltext_dir}/${c}.md"
+    install_md \
+	"Costituzione ${c}" \
+	"${c}/costituzione.md" "${fulltext_dir}/${c}.md"
 done
 
 for md_diff in "$diff_dir"/*.md ; do
@@ -30,5 +35,7 @@ for md_diff in "$diff_dir"/*.md ; do
     dest_file="${dest_dir}/${diff_to}.md"
     test -d "$dest_dir" || mkdir -p "$dest_dir"
 
-    install_md "$md_diff" "$dest_file"
+    install_md \
+	"Differenze tra Costituzione ${diff_from} e Costituzione ${diff_to}" \
+	"$md_diff" "$dest_file"
 done
