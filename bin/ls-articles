@@ -1,0 +1,9 @@
+#! /bin/sh
+# Usage: $0 [file.md]
+# Usage: cat ... | $0
+case $# in
+    (0) ;;
+    (1) exec <"$1" || exit;;
+    (*) echo>&2 "Usage: $0 FILE"; exit 100;;
+esac
+exec awk '$2 == "Art." { print $3 }' | cut -f 1 -d.

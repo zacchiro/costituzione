@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ -z "$1" -o -z "$2" ] ; then
-    echo "Usage: bin/wdiff FILE1 FILE2"
+    echo "Usage: $0 FILE1 FILE2"
     exit 1
 fi
 file1="$1"
