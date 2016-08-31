@@ -1,9 +1,9 @@
-.delete {
+del {
     background-color: #fcacac;
-    /* text-decoration: line-through; */
+    text-decoration: none;
 }
 
-.insert {
+ins {
     background-color: #a6f3a6;
-    /* font-weight: bold; */
+    text-decoration: none;
 }
