@@ -13,6 +13,9 @@ wdiff \
     --end-delete   '</span>' \
     --start-insert '<span class="insert">' \
     --end-insert   '</span>' \
-    "$file1" "$file2"
+    --avoid-wraps \
+    "$file1" "$file2" \
+| sed \
+      -e 's%^<span class="[^"]*"></span>$%%'
 
 exit 0  # wdiff return false upon changes detected
