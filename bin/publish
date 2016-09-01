@@ -2,6 +2,7 @@
 
 diff_dir="diffs"
 html_dir="public_html"
+theme_dir="${html_dir}/assets/themes/twitter"
 fulltext_baseurl="/costituzione/fulltext"
 
 install_md () {
@@ -27,6 +28,7 @@ for c in $costituzioni ; do
 	"${c}/costituzione.md" "${fulltext_dir}/${c}.md"
 done
 
+# install fulltexts and diffs
 for md_diff in "$diff_dir"/*.md ; do
     diff=$(echo $md_diff | sed -e "s@$diff_dir/@@" -e "s@.md@@")
     diff_from=$(echo $diff | sed -e 's/-to.*//')
@@ -42,3 +44,6 @@ for md_diff in "$diff_dir"/*.md ; do
 	"Differenze tra [Costituzione $diff_from]($url_from) e [Costituzione $diff_to]($url_to)" \
 	"$md_diff" "$dest_file"
 done
+
+# install static assets
+cp static/costituzione.css "${theme_dir}/css/"
