@@ -9,13 +9,13 @@ file2="$2"
 shift 2
 
 wdiff \
-    --start-delete '<span class="delete">' \
-    --end-delete   '</span>' \
-    --start-insert '<span class="insert">' \
-    --end-insert   '</span>' \
+    --start-delete '<del>' \
+    --end-delete   '</del>' \
+    --start-insert '<ins>' \
+    --end-insert   '</ins>' \
     --avoid-wraps \
     "$file1" "$file2" \
 | sed \
-      -e 's%^<span class="[^"]*"></span>$%%'
+    -e 's%^<\(ins\|del\)></\1>$%%'
 
 exit 0  # wdiff return false upon changes detected
