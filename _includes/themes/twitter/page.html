@@ -1,6 +1,6 @@
 <div class="page-header">
-  <h2>{{ page.title }} {% if page.tagline %}<br />
-    <small>{{ page.tagline }}</small>{% endif %}
+  <h2>{{ page.title | markdownify }} {% if page.tagline %}<br />
+    <small>{{ page.tagline | markdownify }}</small>{% endif %}
   </h2>
 </div>
 
