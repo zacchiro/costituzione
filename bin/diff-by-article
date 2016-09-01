@@ -4,7 +4,7 @@ test $# -eq 2 || { echo>&2 "Usage: $0 FILE1 FILE2"; exit 100; }
 for i ; do
     test -e "$i" || exec ls "$i"
 done
-for article in $(cat "$1" "$2" | ls-articles) ; do
+for article in $(cat "$1" "$2" | ls-articles | sort -nu) ; do
     # unchanged => skip
     cmp -s <( nth-article $article "$1" ) <( nth-article $article "$2" ) && continue
     # add options etc to wdiff!
