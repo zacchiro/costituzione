@@ -12,4 +12,6 @@ publish: $(HTML_DIR)
 
 public_html:
 	git clone --local . $(HTML_DIR)
-	cd $(HTML_DIR) && git checkout gh-pages
+	cd $(HTML_DIR) && \
+	  git remote set-url origin $(shell git remote get-url origin) && \
+	  git checkout gh-pages
