@@ -2,6 +2,7 @@
 
 diff_dir="diffs"
 html_dir="public_html"
+fulltext_baseurl="/costituzione/fulltext"
 
 install_md () {
     title="$1"
@@ -30,12 +31,14 @@ for md_diff in "$diff_dir"/*.md ; do
     diff=$(echo $md_diff | sed -e "s@$diff_dir/@@" -e "s@.md@@")
     diff_from=$(echo $diff | sed -e 's/-to.*//')
     diff_to=$(echo $diff | sed -e 's/.*-to-//')
+    url_from="${fulltext_baseurl}/${diff_from}"
+    url_to="${fulltext_baseurl}/${diff_to}"
 
     dest_dir="${html_dir}/diff/${diff_from}"
     dest_file="${dest_dir}/${diff_to}.md"
     test -d "$dest_dir" || mkdir -p "$dest_dir"
 
     install_md \
-	"Differenze tra Costituzione ${diff_from} e Costituzione ${diff_to}" \
+	"Differenze tra [Costituzione $diff_from]($url_from) e [Costituzione $diff_to]($url_to)" \
 	"$md_diff" "$dest_file"
 done
