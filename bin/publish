@@ -47,3 +47,5 @@ done
 
 # install static assets
 cp static/costituzione.css "${theme_dir}/css/"
+mkdir -p "${theme_dir}/js/"
+cp static/link_articoli.js "${theme_dir}/js/"

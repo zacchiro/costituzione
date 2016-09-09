@@ -11,6 +11,9 @@ echo '<meta charset="utf-8">'
 echo '<style>'
 cat ../static/costituzione.css
 echo '</style>'
+echo '<script>'
+cat ../static/link_articoli.js
+echo '</script>'
 echo '</head><body>'
 markdown "$1"
 echo '</body></html>'
