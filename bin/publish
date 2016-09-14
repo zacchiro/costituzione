@@ -53,4 +53,5 @@ test -d "$css_dir"        || mkdir -p "$css_dir"
 test -d "$javascript_dir" || mkdir -p "$javascript_dir"
 
 cp static/costituzione.css "${css_dir}/"
-cp static/jquery.min.js "${javascript_dir}/"
+cp static/jquery.min.js    "${javascript_dir}/"
+cp static/local.js         "${javascript_dir}/"
