@@ -3,6 +3,8 @@
 diff_dir="diffs"
 html_dir="public_html"
 theme_dir="${html_dir}/assets/themes/twitter"
+css_dir="${theme_dir}/css"
+javascript_dir="${theme_dir}/js"
 fulltext_baseurl="/costituzione/fulltext"
 
 install_md () {
@@ -46,4 +48,9 @@ for md_diff in "$diff_dir"/*.md ; do
 done
 
 # install static assets
-cp static/costituzione.css "${theme_dir}/css/"
+
+test -d "$css_dir"        || mkdir -p "$css_dir"
+test -d "$javascript_dir" || mkdir -p "$javascript_dir"
+
+cp static/costituzione.css "${css_dir}/"
+cp static/jquery.min.js "${javascript_dir}/"
