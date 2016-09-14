@@ -8,6 +8,10 @@ ins {
     text-decoration: none;
 }
 
+a h5 {
+    color: initial;
+}
+
 h5::before {
     content: "§ ";
     margin-left: -1em;
