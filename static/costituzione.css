@@ -10,5 +10,5 @@ ins {
 
 h5::before {
     content: "§ ";
-    margin-left: "-1em";
+    margin-left: -1em;
 }
