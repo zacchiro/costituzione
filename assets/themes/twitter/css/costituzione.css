@@ -7,3 +7,8 @@ ins {
     background-color: #a6f3a6;
     text-decoration: none;
 }
+
+h5::before {
+    content: "§ ";
+    margin-left: "-1em";
+}
