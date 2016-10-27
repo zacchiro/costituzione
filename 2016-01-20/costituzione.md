@@ -434,6 +434,8 @@ Abrogato
 
 ##### Art. 59.
 
+È senatore di diritto e a vita, salvo rinunzia, chi è stato Presidente della Repubblica.
+
 Il Presidente della Repubblica può nominare senatori cittadini che hanno illustrato la Patria per altissimi meriti nel campo sociale, scientifico, artistico e letterario. Tali senatori durano in carica sette anni e non possono essere nuovamente nominati.
 
 ##### Art. 60.
