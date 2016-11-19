@@ -16,17 +16,16 @@ BEGIN {
     found=0
 }
 
-# Find the right article
+# Find the right article - see issue 10!
+# "##### Art. 113. (blah blah)
+#  ### Titolo V"
+# ==> lines beginning with "#" are a boundary, those with "Art." begin articles
+/^##*/ { if(found) exit }
 $2 == "Art." {
     if($3 == article) {
         found=1
-    } else {
-        if(found) {
-            exit
-        }
     }
 }
 
-# every line
 { if(found) print }
 ' "$input"
