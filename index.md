@@ -19,7 +19,7 @@ tagline: varie versioni della Costituzione Italiana e confronti fra loro
 
 * **[riforma Boschi](diff/2012-04-20/2016-01-20)**: proposta di modifica dalla
   Costituzione [2012-04-20](fulltext/2012-04-20) alla Costituzione
-  [2016-01-20](fulltext/2012-04-20)
+  [2016-01-20](fulltext/2016-01-20)
 
 ---
 
