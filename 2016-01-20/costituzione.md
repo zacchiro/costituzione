@@ -36,7 +36,7 @@ La Repubblica tutela con apposite norme le minoranze linguistiche.
 
 Lo Stato e la Chiesa cattolica sono, ciascuno nel proprio ordine, indipendenti e sovrani.
 
-I loro rapporti sono olati dai Patti Lateranensi. Le modificazioni dei Patti, accettate dalle due parti, non richiedono procedimento di revisione costituzionale.
+I loro rapporti sono regolati dai Patti Lateranensi. Le modificazioni dei Patti, accettate dalle due parti, non richiedono procedimento di revisione costituzionale.
 
 ##### Art. 8.
 
