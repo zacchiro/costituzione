@@ -1,0 +1,15 @@
+#! /bin/sh
+# Usage: $0 buggy.md >fixed.md
+test $# -eq 1 || { echo>&2 "Usage: $0 issue9.md >fixed.md"; exit 100; }
+# grep '\r'? no...
+cat "$1" | tr -d '\r' | cmp - "$1" || {
+        echo>&2 'This hack requires no \\r in the input, convert newlines'
+        exit 100
+}
+exec <"$1" || exit
+# HACK from https://unix.stackexchange.com/a/152389
+# since the proper solution is, well...
+tr '\n' '\r' | \
+        sed 's,\([^.]\)</del>\r\r<ins>,\1</del><ins>,g' | \
+        sed 's,\([^.]\)</ins>\r\r<del>,\1</ins><del>,g' | \
+        tr '\r' '\n'
