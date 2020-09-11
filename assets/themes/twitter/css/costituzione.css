@@ -1,0 +1,18 @@
+del {
+    background-color: #fcacac;
+    text-decoration: none;
+}
+
+ins {
+    background-color: #a6f3a6;
+    text-decoration: none;
+}
+
+a h5 {
+    color: initial;
+}
+
+h5::before {
+    content: "§ ";
+    margin-left: -1em;
+}
